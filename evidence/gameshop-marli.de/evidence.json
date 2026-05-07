@@ -1,0 +1,274 @@
+{
+  "scanned_at_utc": "2026-05-07T20:37:02+00:00",
+  "base_url": "https://www.gameshop-marli.de",
+  "domain": "gameshop-marli.de",
+  "input_row": {
+    "found_at_utc": "2026-05-07T20:24:42+00:00",
+    "url": "https://www.gameshop-marli.de",
+    "domain": "gameshop-marli.de",
+    "normalized_domain": "gameshop-marli.de",
+    "business_name": "GAMESHOP Marli",
+    "keyword": "Online-Shop",
+    "plz": "23558",
+    "city": "Lübeck",
+    "place_id": "ChIJlcedwGIJskcR39w3LxrtQXc",
+    "google_types": "establishment,point_of_interest,store",
+    "google_rating": "4.6",
+    "google_user_ratings_total": "500",
+    "formatted_address": "Moislinger Allee 14, 23558 Lübeck, Deutschland",
+    "source": "google_places_textsearch_seed_v5",
+    "Location_Confidence": "1.0",
+    "Location_Reason": "address_plz_match",
+    "Location_Rejected_Reason": "",
+    "Transaction_Checked_At_UTC": "2026-05-07T20:27:18+00:00",
+    "Transaction_Score": "100",
+    "Transaction_Reasons": "Checkout_Found+35 | Cart_Found+25 | Ticket_Found+35 | lead-keyword+10",
+    "Transaction_Type": "ticket_booking",
+    "Consumer_Contract_Likelihood": "hoch",
+    "Transaction_Evidence_URLs": "https://www.gameshop-marli.de/ | https://www.gameshop-marli.de/cart",
+    "Transaction_Evidence_JSON": "test_outputs_luebeck/transaction_evidence/gameshop-marli.de/transaction_evidence.json",
+    "Pages_Transaction_Checked": "2",
+    "Cart_Found": "yes",
+    "Checkout_Found": "yes",
+    "Booking_Found": "no",
+    "Appointment_Found": "no",
+    "Ticket_Found": "yes",
+    "Subscription_Found": "no",
+    "Login_Found": "no",
+    "Payment_Words_Found": "no",
+    "Product_Price_Found": "no",
+    "Contract_Form_Found": "no",
+    "Cold_Email_Allowed": "no",
+    "Postal_Letter_Recommended": "yes_after_manual_review",
+    "DSGVO_Data_Minimization": "public business website data only; no accounts, no form submission, no private data intentionally collected",
+    "DSGVO_Source": "public website / Google Places lead",
+    "DSGVO_Delete_After": "2026-11-03",
+    "Transaction_Rejected_Reason": "",
+    "Healthcare_Lead": "no",
+    "Healthcare_Digital_Service": "no",
+    "Online_Appointment_Found": "no",
+    "Video_Consultation_Found": "no",
+    "Online_Prescription_Found": "no",
+    "Patient_Portal_Found": "no",
+    "Microenterprise_Risk": "low",
+    "Microenterprise_Reasons": "Rechtsform/Größe/Reviews sprechen gegen Kleinstunternehmen",
+    "BFSG_Applicability_Status": "A",
+    "BFSG_Exclusion_Risk": "low",
+    "BFSG_Exclusion_Reasons": "starke Transaktionsstrecke",
+    "Recommended_Action": "audit_prioritize",
+    "Applicability_Rejected_Reason": ""
+  },
+  "scope": {
+    "scope_score": 100,
+    "scope_label": "wahrscheinlich BFSG-relevant",
+    "scope_reasons": [
+      "Kauf-/Bestellfunktion",
+      "Online-Shop Hinweis",
+      "Shop/Checkout/Zahlung",
+      "Ticket/Reise/Hotel-Buchung"
+    ]
+  },
+  "company": {
+    "Company_Name": "- GAMESHOP Marli Pokmon Tausch & Play  Jeden Donnerstag Unsere Öffnungszeiten 0451 6132952 01520 6676745 Moislinger Al",
+    "Entscheider": "Inhaber / Geschäftsführung",
+    "Email": "info@gameshop-marli.de",
+    "Telefon": "0451/61 32 952",
+    "HRB_HRA": "Nicht gefunden",
+    "Impressum_URL": "https://www.gameshop-marli.de/l/contact",
+    "Adresse_Text": "76745 Moislinger Allee",
+    "Mitarbeiter_Hinweis": "Unbekannt",
+    "Extraction_Error": ""
+  },
+  "pages": [
+    {
+      "url": "https://www.gameshop-marli.de",
+      "viewport": "desktop",
+      "loaded": true,
+      "title": "Pokemon - GAMESHOP MARLI",
+      "score": 78,
+      "violations_count": 3,
+      "incomplete_count": 1,
+      "critical_count": 0,
+      "serious_count": 1,
+      "moderate_count": 1,
+      "minor_count": 1,
+      "top_issues": "image-redundant-alt(minor,4), region(moderate,2), color-contrast(serious,1)",
+      "overlays": [],
+      "keyboard": {
+        "tabbed_elements": [
+          {
+            "cls": "cc-dialog-button-decline focus-visible",
+            "href": "",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 610.390625,
+              "height": 47.5,
+              "left": 382.5,
+              "right": 481.171875,
+              "top": 562.890625,
+              "width": 98.671875,
+              "x": 382.5,
+              "y": 562.890625
+            },
+            "tag": "BUTTON",
+            "text": "Ablehnen"
+          }
+        ],
+        "focus_count": 1,
+        "keyboard_warning": "Sehr wenige fokussierbare Elemente im TAB-Smoke-Test"
+      },
+      "screenshot_path": "evidence/gameshop-marli.de/9ef2da6dec_desktop.png",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                ".cc-dialog-button-accept"
+              ],
+              "html": "<button class=\"cc-dialog-button-accept\" type=\"button\">Akzeptieren</button>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "image-redundant-alt",
+          "impact": "minor",
+          "description": "Ensure image alternative is not repeated as text",
+          "help": "Alternative text of images should not be repeated as text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/image-redundant-alt?application=axeAPI",
+          "tags": [
+            "cat.text-alternatives",
+            "best-practice"
+          ],
+          "node_count": 4,
+          "nodes": [
+            {
+              "target": [
+                ".swiper-slide-active.product-item-list-swiper-slide.swiper-slide > .product-item[itemtype=\"https://schema.org/Product\"][itemscope=\"\"] > .product-item-link[itemprop=\"url\"][data-discover=\"true\"] > .product-item-image-container > img[width=\"720\"][sizes=\"224px\"][height=\"1080\"]"
+              ],
+              "html": "<img class=\"product-item-image lazyautosizes ls-is-cached lazyloaded\" data-sizes=\"auto\" alt=\"06.05. (Mittwoch) Ticket: One Piece STORE EVENT\" decoding=\"async\" width=\"720\" height=\"1080\" data-srcset=\"/storage/images/image?remote=https%3A%2F%2Fwww.gameshop-marli.de%2FWebRoot%2FStore29%2FShops%2F85205512%2F6999%2FB10C%2FB3E9%2F8569%2F8061%2F0A0C%2F6D0B%2FCBE5%2FNEW_OP_NEW_STORE_EVENT_VOL_2_2026_Kopie.png&amp;shop=85205512&amp;width=180&amp;height=2560 180w, /storage/images/image?remote=https%3A%2F%2",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".product-item[itemtype=\"https://schema.org/Product\"][itemscope=\"\"]:nth-child(1) > .product-item-link[itemprop=\"url\"][data-discover=\"true\"] > .product-item-image-container > img[sizes=\"220px\"][width=\"1326\"][height=\"1080\"]"
+              ],
+              "html": "<img class=\"product-item-image lazyautosizes lazyloaded\" data-sizes=\"auto\" alt=\"Riftbound Spiritforged Jumbo Booster Box (S-CHN)\" decoding=\"async\" width=\"1326\" height=\"1080\" data-srcset=\"/storage/images/image?remote=https%3A%2F%2Fwww.gameshop-marli.de%2FWebRoot%2FStore29%2FShops%2F85205512%2F699D%2F886E%2FB301%2F36FC%2FF76D%2F0A0C%2F6D0B%2F41C4%2FRiftbound_Spiritforged_Slim_Booster_Box_.png&amp;shop=85205512&amp;width=180&amp;height=2560 180w, /storage/images/image?remote=https%3A%2F%2Fwww.games",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".product-item[itemtype=\"https://schema.org/Product\"][itemscope=\"\"]:nth-child(2) > .product-item-link[itemprop=\"url\"][data-discover=\"true\"] > .product-item-image-container > img[sizes=\"220px\"][width=\"1326\"][height=\"1080\"]"
+              ],
+              "html": "<img class=\"product-item-image lazyautosizes lazyloaded\" data-sizes=\"auto\" alt=\"Riftbound Spiritforged Jumbo Booster Box (S-CHN)\" decoding=\"async\" width=\"1326\" height=\"1080\" data-srcset=\"/storage/images/image?remote=https%3A%2F%2Fwww.gameshop-marli.de%2FWebRoot%2FStore29%2FShops%2F85205512%2F699D%2F7EE7%2F17B5%2FE499%2F043A%2F0A0C%2F6D10%2FFF54%2FRiftbound_Spiritforged_Jumbo_Booster_Box_Kopie.png&amp;shop=85205512&amp;width=180&amp;height=2560 180w, /storage/images/image?remote=https%3A%2F%2Fwww",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".product-item[itemtype=\"https://schema.org/Product\"][itemscope=\"\"]:nth-child(3) > .product-item-link[itemprop=\"url\"][data-discover=\"true\"] > .product-item-image-container > img[sizes=\"220px\"][width=\"1326\"][height=\"1080\"]"
+              ],
+              "html": "<img class=\"product-item-image lazyautosizes lazyloaded\" data-sizes=\"auto\" alt=\"Riftbound ORIGINS Jumbo Booster Box (S-CHN)\" decoding=\"async\" width=\"1326\" height=\"1080\" data-srcset=\"/storage/images/image?remote=https%3A%2F%2Fwww.gameshop-marli.de%2FWebRoot%2FStore29%2FShops%2F85205512%2F699D%2F89BF%2FA77A%2F7D72%2F419E%2F0A0C%2F6D10%2F9F25%2FRiftbound_Jumbo_Booster_Box_Kopie.png&amp;shop=85205512&amp;width=180&amp;height=2560 180w, /storage/images/image?remote=https%3A%2F%2Fwww.gameshop-marli.de",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "description": "Ensure all page content is contained by landmarks",
+          "help": "All page content should be contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+          "tags": [
+            "cat.keyboard",
+            "best-practice"
+          ],
+          "node_count": 2,
+          "nodes": [
+            {
+              "target": [
+                ".header-announcement-bar"
+              ],
+              "html": "<section class=\"header-announcement-bar\"><div class=\"header-announcement-bar-wrapper\"><p><strong>Pokémon Tausch &amp; Play – Jeden Donnerstag</strong></p></div></section>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".desktop-view"
+              ],
+              "html": "<div class=\"header-usp desktop-view\">",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 189,
+          "nodes": [
+            {
+              "target": [
+                ".header-announcement-bar-wrapper > p > strong"
+              ],
+              "html": "<strong>Pokémon Tausch &amp; Play – Jeden Donnerstag</strong>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".header-usp-list-item:nth-child(1) > .header-usp-list-item-wrapper > .header-usp-list-item-text"
+              ],
+              "html": "<span class=\"header-usp-list-item-text\">0451 6132952</span>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".desktop-view > .header-usp-list > .header-usp-list-item:nth-child(2) > .header-usp-list-item-wrapper > .header-usp-list-item-text"
+              ],
+              "html": "<span class=\"header-usp-list-item-text\">01520 6676745 </span>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "axe_error": ""
+    }
+  ],
+  "risk": {
+    "audit_score": 36,
+    "risk_label": "mittel - manuelle Prüfung sinnvoll",
+    "manual_review_needed": "ja",
+    "legal_safe_status": "Automatisch erkannte Barrierefreiheitsrisiken. Keine endgültige BFSG-Verstoßbehauptung ohne manuelle Prüfung."
+  },
+  "note": "Automatischer Risikoscan. Keine abschließende BFSG- oder WCAG-Konformitätsaussage ohne manuelle Prüfung."
+}

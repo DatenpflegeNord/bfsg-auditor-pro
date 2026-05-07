@@ -1,0 +1,821 @@
+{
+  "scanned_at_utc": "2026-05-07T12:07:38+00:00",
+  "base_url": "https://www.citti-park-luebeck.de/citti-ticketcenter",
+  "domain": "citti-park-luebeck.de",
+  "input_row": {
+    "found_at_utc": "2026-05-07T12:05:04+00:00",
+    "url": "https://www.citti-park-luebeck.de/citti-ticketcenter",
+    "domain": "citti-park-luebeck.de",
+    "normalized_domain": "citti-park-luebeck.de",
+    "business_name": "Citti Ticket Center",
+    "keyword": "Ticketshop",
+    "plz": "24103",
+    "city": "Kiel",
+    "place_id": "ChIJ-5PGcpQOskcRBLQABNILTzE",
+    "google_types": "establishment,point_of_interest,store",
+    "google_rating": "4.2",
+    "google_user_ratings_total": "85",
+    "formatted_address": "Buntekuh, 23556 Lübeck, Deutschland",
+    "source": "google_places_textsearch_seed_v5",
+    "Quality_Score": "100",
+    "Quality_Reasons": "keyword+65 | lokale-domain+20 | mittelgroesse+10 | solider-lokalbetrieb+5",
+    "Rejected_Reason": "",
+    "Transaction_Checked_At_UTC": "2026-05-07T12:05:52+00:00",
+    "Transaction_Score": "45",
+    "Transaction_Reasons": "Ticket_Found+35 | lead-keyword+10",
+    "Transaction_Type": "ticket_booking",
+    "Consumer_Contract_Likelihood": "mittel",
+    "Transaction_Evidence_URLs": "https://www.citti-park-luebeck.de/citti-ticketcenter | https://www.citti-park-luebeck.de/shops",
+    "Transaction_Evidence_JSON": "runs/20260507_120549/transaction_evidence/citti-park-luebeck.de/transaction_evidence.json",
+    "Pages_Transaction_Checked": "2",
+    "Cart_Found": "no",
+    "Checkout_Found": "no",
+    "Booking_Found": "no",
+    "Appointment_Found": "no",
+    "Ticket_Found": "yes",
+    "Subscription_Found": "no",
+    "Login_Found": "no",
+    "Payment_Words_Found": "no",
+    "Product_Price_Found": "no",
+    "Contract_Form_Found": "no",
+    "Cold_Email_Allowed": "no",
+    "Postal_Letter_Recommended": "yes_after_manual_review",
+    "DSGVO_Data_Minimization": "public business website data only; no accounts, no form submission, no private data intentionally collected",
+    "DSGVO_Source": "public website / Google Places lead",
+    "DSGVO_Delete_After": "2026-11-03",
+    "Transaction_Rejected_Reason": "",
+    "Healthcare_Lead": "no",
+    "Healthcare_Digital_Service": "no",
+    "Online_Appointment_Found": "no",
+    "Video_Consultation_Found": "no",
+    "Online_Prescription_Found": "no",
+    "Patient_Portal_Found": "no",
+    "Microenterprise_Risk": "medium",
+    "Microenterprise_Reasons": "Größe/Umsatz nicht sicher öffentlich belegbar",
+    "BFSG_Applicability_Status": "B",
+    "BFSG_Exclusion_Risk": "medium",
+    "BFSG_Exclusion_Reasons": "mögliche BFSG-relevante Transaktionsstrecke",
+    "Recommended_Action": "audit_manual_check",
+    "Applicability_Rejected_Reason": "",
+    "Contextual_Checked_At_UTC": "2026-05-07T12:06:15+00:00",
+    "Contextual_Risk_Score": "60",
+    "Contextual_Risk_Label": "mittel",
+    "Focus_Tab_Steps": "15",
+    "Focus_Offscreen_Count": "0",
+    "Focus_Missing_Indicator_Count": "9",
+    "Focus_Stuck_Risk": "no",
+    "Focus_Findings_JSON": "[{\"step\": 1, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"/centerauswahl\", \"name\": \"\", \"text\": \"Centerauswahl\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_120549/contextual_evidence/citti-park-luebeck.de/page_1/focus_missing_indicator_1.png\", \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"step\": 2, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"/oeffnungszeiten\", \"name\": \"\", \"text\": \"Öffnungszeiten\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_120549/contextual_evidence/citti-park-luebeck.de/page_1/focus_missing_indicator_2.png\", \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"step\": 3, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"/gutscheine\", \"name\": \"\", \"text\": \"Gutscheine\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_120549/contextual_evidence/citti-park-luebeck.de/page_1/focus_missing_indicator_3.png\", \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"step\": 4, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"/newsletter\", \"name\": \"\", \"text\": \"Newsletter\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_120549/contextual_evidence/citti-park-luebeck.de/page_1/focus_missing_indicator_4.png\", \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"step\": 5, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"/citti-park-magazin\", \"name\": \"\", \"text\": \"MAGAZIN\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_120549/contextual_evidence/citti-park-luebeck.de/page_1/focus_missing_indicator_5.png\", \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"step\": 6, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"/karriere\", \"name\": \"\", \"text\": \"Karriere\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"step\": 7, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"/anfahrt\", \"name\": \"\", \"text\": \"Anfahrt\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"step\": 8, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"/kontakt\", \"name\": \"\", \"text\": \"Kontakt\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"step\": 11, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"/\", \"name\": \"\", \"text\": \"Lübeck\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}]",
+    "Image_Alt_Candidate_Count": "16",
+    "Icon_Name_Candidate_Count": "7",
+    "Form_Label_Candidate_Count": "0",
+    "Visual_AI_Candidates_JSON": "[{\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_0_0.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 240, \"y\": 977.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_1_0.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 496, \"y\": 977.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_0_1.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 240, \"y\": 1233.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_1_1.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 496, \"y\": 1233.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_2_0.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 752, \"y\": 977.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_2_1.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 752, \"y\": 1233.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_1_2.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 496, \"y\": 1489.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_2_2.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 752, \"y\": 1489.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_3_1.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 1008, \"y\": 1233.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_0_2.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 240, \"y\": 1489.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_3_2.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 1008, \"y\": 1489.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_1_3.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 496, \"y\": 1745.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_2_3.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 752, \"y\": 1745.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_3_0.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 1008, \"y\": 977.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_0_3.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 240, \"y\": 1745.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.citti-park-luebeck.de/static-images/maps/luebeck/tiles/2/tile_3_3.png?v=2\", \"nearbyText\": \"\", \"rect\": {\"x\": 1008, \"y\": 1745.890625, \"width\": 256, \"height\": 256}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"icon_control_name_candidate\", \"tag\": \"a\", \"role\": \"\", \"href\": \"https://www.instagram.com/cittipark.luebeck\", \"html\": \"<a target=\\\"_blank\\\" class=\\\"nav-link py-2 px-3 p-lg-2 text-body\\\" href=\\\"https://www.instagram.com/cittipark.luebeck\\\"> <svg class=\\\"svg-inline--fa fa-instagram fa-w-14\\\" aria-hidden=\\\"true\\\" focusable=\\\"false\\\" data-prefix=\\\"cp\\\" data-icon=\\\"instagram\\\" role=\\\"img\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 4\", \"rect\": {\"x\": 1104, \"y\": 65.59375, \"width\": 35.25, \"height\": 51.1875}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"icon_control_name_candidate\", \"tag\": \"a\", \"role\": \"\", \"href\": \"https://www.facebook.com/CITTIPARK.Luebeck\", \"html\": \"<a target=\\\"_blank\\\" class=\\\"nav-link py-2 px-3 p-lg-2 text-body\\\" href=\\\"https://www.facebook.com/CITTIPARK.Luebeck\\\"> <svg class=\\\"svg-inline--fa fa-facebook fa-w-16\\\" aria-hidden=\\\"true\\\" focusable=\\\"false\\\" data-prefix=\\\"cp\\\" data-icon=\\\"facebook\\\" role=\\\"img\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 512 \", \"rect\": {\"x\": 1139.25, \"y\": 65.59375, \"width\": 38, \"height\": 51.1875}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"icon_control_name_candidate\", \"tag\": \"a\", \"role\": \"\", \"href\": \"https://www.youtube.com/user/CittiPark\", \"html\": \"<a target=\\\"_blank\\\" class=\\\"nav-link py-2 px-3 p-lg-2 text-body\\\" href=\\\"https://www.youtube.com/user/CittiPark\\\"> <svg class=\\\"svg-inline--fa fa-youtube fa-w-18\\\" aria-hidden=\\\"true\\\" focusable=\\\"false\\\" data-prefix=\\\"cp\\\" data-icon=\\\"youtube\\\" role=\\\"img\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 576 512\\\" d\", \"rect\": {\"x\": 1177.25, \"y\": 65.59375, \"width\": 40.75, \"height\": 51.1875}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"icon_control_name_candidate\", \"tag\": \"a\", \"role\": \"\", \"href\": \"https://www.citti-park.de/\", \"html\": \"<a href=\\\"https://www.citti-park.de/\\\" target=\\\"_blank\\\"> <img src=\\\"/build/cittipark/images/cittipark_white.0740e8b9.svg\\\" alt=\\\"CITTI-PARK\\\" width=\\\"150\\\" height=\\\"24\\\" class=\\\"d-block\\\"> </a>\", \"rect\": {\"x\": 927.34375, \"y\": 1955.890625, \"width\": 350.65625, \"height\": 24}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"icon_control_name_candidate\", \"tag\": \"a\", \"role\": \"\", \"href\": \"https://www.instagram.com/cittipark.luebeck\", \"html\": \"<a target=\\\"_blank\\\" href=\\\"https://www.instagram.com/cittipark.luebeck\\\" class=\\\"text-white text-decoration-none fs-4\\\"> <svg class=\\\"svg-inline--fa fa-instagram fa-w-14\\\" aria-hidden=\\\"true\\\" focusable=\\\"false\\\" data-prefix=\\\"cp\\\" data-icon=\\\"instagram\\\" role=\\\"img\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 \", \"rect\": {\"x\": 927.34375, \"y\": 2010.890625, \"width\": 21, \"height\": 29}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"icon_control_name_candidate\", \"tag\": \"a\", \"role\": \"\", \"href\": \"https://www.facebook.com/CITTIPARK.Luebeck\", \"html\": \"<a target=\\\"_blank\\\" href=\\\"https://www.facebook.com/CITTIPARK.Luebeck\\\" class=\\\"text-white text-decoration-none fs-4\\\"> <svg class=\\\"svg-inline--fa fa-facebook fa-w-16\\\" aria-hidden=\\\"true\\\" focusable=\\\"false\\\" data-prefix=\\\"cp\\\" data-icon=\\\"facebook\\\" role=\\\"img\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 512\", \"rect\": {\"x\": 964.34375, \"y\": 2010.890625, \"width\": 24, \"height\": 29}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}, {\"type\": \"icon_control_name_candidate\", \"tag\": \"a\", \"role\": \"\", \"href\": \"https://www.youtube.com/user/CittiPark\", \"html\": \"<a target=\\\"_blank\\\" href=\\\"https://www.youtube.com/user/CittiPark\\\" class=\\\"text-white text-decoration-none fs-4\\\"> <svg class=\\\"svg-inline--fa fa-youtube fa-w-18\\\" aria-hidden=\\\"true\\\" focusable=\\\"false\\\" data-prefix=\\\"cp\\\" data-icon=\\\"youtube\\\" role=\\\"img\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 576 512\\\" \", \"rect\": {\"x\": 1004.34375, \"y\": 2010.890625, \"width\": 27, \"height\": 29}, \"url\": \"https://www.citti-park-luebeck.de/citti-ticketcenter\"}]",
+    "Cognitive_Candidates_JSON": "[]",
+    "Contextual_Evidence_JSON": "runs/20260507_120549/contextual_evidence/citti-park-luebeck.de/contextual_evidence.json",
+    "Contextual_Recommended_Action": "manual_review",
+    "Contextual_Privacy_Status": "datensparsam; no login; no form submit; no cart modification"
+  },
+  "scope": {
+    "scope_score": 50,
+    "scope_label": "unklar / manuell prüfen",
+    "scope_reasons": [
+      "Online-Shop Hinweis",
+      "Ticket/Reise/Hotel-Buchung"
+    ]
+  },
+  "company": {
+    "Company_Name": " CITTI-PARK Lübeck Lübeck DE EN Shops Essen & Trinken Unser Center Neuigkeiten Veranstaltungen Services Centerauswahl Ö",
+    "Entscheider": "Gerhard Lütje Dirk Lütje Christoph Langness",
+    "Email": "immobilien@citti.de",
+    "Telefon": "+49 431 6893 0 (",
+    "HRB_HRA": "HRA 848",
+    "Impressum_URL": "https://www.citti-park-luebeck.de/de/imprint",
+    "Adresse_Text": "24113 Kiel",
+    "Mitarbeiter_Hinweis": "Unbekannt",
+    "Extraction_Error": ""
+  },
+  "pages": [
+    {
+      "url": "https://www.citti-park-luebeck.de/citti-ticketcenter",
+      "viewport": "desktop",
+      "loaded": true,
+      "title": "CITTI Ticketcenter | CITTI-PARK Lübeck",
+      "score": 0,
+      "violations_count": 6,
+      "incomplete_count": 1,
+      "critical_count": 0,
+      "serious_count": 3,
+      "moderate_count": 3,
+      "minor_count": 0,
+      "top_issues": "color-contrast(serious,8), region(moderate,8), link-name(serious,6), list(serious,2), heading-order(moderate,1), landmark-unique(moderate,1)",
+      "overlays": [],
+      "keyboard": {
+        "tabbed_elements": [
+          {
+            "cls": "",
+            "href": "",
+            "id": "usercentrics-root",
+            "outline": "none 3px",
+            "rect": {
+              "bottom": 2314.9375,
+              "height": 0,
+              "left": 0,
+              "right": 1440,
+              "top": 2314.9375,
+              "width": 1440,
+              "x": 0,
+              "y": 2314.9375
+            },
+            "tag": "DIV",
+            "text": ""
+          }
+        ],
+        "focus_count": 1,
+        "keyboard_warning": "Sehr wenige fokussierbare Elemente im TAB-Smoke-Test"
+      },
+      "screenshot_path": "evidence/citti-park-luebeck.de/b37d1e69fb_desktop.png",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 8,
+          "nodes": [
+            {
+              "target": [
+                ".text-muted[href$=\"centerauswahl\"][target=\"_self\"] > .menu-item-title"
+              ],
+              "html": "<span class=\"menu-item-title\">\n                    Centerauswahl\n                </span>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".text-muted[href$=\"oeffnungszeiten\"][target=\"_self\"] > .menu-item-title"
+              ],
+              "html": "<span class=\"menu-item-title\">\n                    Öffnungszeiten\n                </span>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".text-muted[href$=\"gutscheine\"][aria-label=\"Mehr über \\\"Gutscheine\\\" lesen\"] > .menu-item-title"
+              ],
+              "html": "<span class=\"menu-item-title\">\n                    Gutscheine\n                </span>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".text-muted[href$=\"newsletter\"][aria-label=\"Mehr über \\\"Newsletter\\\" lesen\"] > .menu-item-title"
+              ],
+              "html": "<span class=\"menu-item-title\">\n                    Newsletter\n                </span>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".text-muted[href$=\"citti-park-magazin\"][aria-label=\"Mehr über \\\"MAGAZIN\\\" lesen\"] > .menu-item-title"
+              ],
+              "html": "<span class=\"menu-item-title\">\n                    MAGAZIN\n                </span>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "description": "Ensure the order of headings is semantically correct",
+          "help": "Heading levels should only increase by one",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=axeAPI",
+          "tags": [
+            "cat.semantics",
+            "best-practice"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "h3"
+              ],
+              "html": "<h3 class=\"text-center d-inline-block\">\n                                    Über CITTI Ticketcenter\n                                </h3>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "landmark-unique",
+          "impact": "moderate",
+          "description": "Ensure landmarks are unique",
+          "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/landmark-unique?application=axeAPI",
+          "tags": [
+            "cat.semantics",
+            "best-practice"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                ".navigation-desktop.d-none.d-lg-block:nth-child(3) > .container > nav"
+              ],
+              "html": "<nav class=\"navbar navbar-expand-lg navbar-light py-1\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "description": "Ensure links have discernible text",
+          "help": "Links must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-name?application=axeAPI",
+          "tags": [
+            "cat.name-role-value",
+            "wcag2a",
+            "wcag244",
+            "wcag412",
+            "section508",
+            "section508.22.a",
+            "TTv5",
+            "TT6.a",
+            "EN-301-549",
+            "EN-9.2.4.4",
+            "EN-9.4.1.2",
+            "ACT"
+          ],
+          "node_count": 6,
+          "nodes": [
+            {
+              "target": [
+                ".ms-xl-3 > .nav-item:nth-child(1) > .p-lg-2.py-2[target=\"_blank\"]"
+              ],
+              "html": "<a target=\"_blank\" class=\"nav-link py-2 px-3 p-lg-2 text-body\" href=\"https://www.instagram.com/cittipark.luebeck\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".ms-xl-3 > .nav-item:nth-child(2) > .p-lg-2.py-2[target=\"_blank\"]"
+              ],
+              "html": "<a target=\"_blank\" class=\"nav-link py-2 px-3 p-lg-2 text-body\" href=\"https://www.facebook.com/CITTIPARK.Luebeck\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".ms-xl-3 > .nav-item:nth-child(3) > .p-lg-2.py-2[target=\"_blank\"]"
+              ],
+              "html": "<a target=\"_blank\" class=\"nav-link py-2 px-3 p-lg-2 text-body\" href=\"https://www.youtube.com/user/CittiPark\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-auto:nth-child(1) > .fs-4.text-decoration-none[target=\"_blank\"]"
+              ],
+              "html": "<a target=\"_blank\" href=\"https://www.instagram.com/cittipark.luebeck\" class=\"text-white text-decoration-none fs-4\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-auto:nth-child(2) > .fs-4.text-decoration-none[target=\"_blank\"]"
+              ],
+              "html": "<a target=\"_blank\" href=\"https://www.facebook.com/CITTIPARK.Luebeck\" class=\"text-white text-decoration-none fs-4\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "list",
+          "impact": "serious",
+          "description": "Ensure that lists are structured correctly",
+          "help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/list?application=axeAPI",
+          "tags": [
+            "cat.structure",
+            "wcag2a",
+            "wcag131",
+            "EN-301-549",
+            "EN-9.1.3.1"
+          ],
+          "node_count": 2,
+          "nodes": [
+            {
+              "target": [
+                ".gx-4"
+              ],
+              "html": "<ul class=\"row gx-4 gy-4 list-unstyled small\" style=\"line-height: 2.5;\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-lg-4.last.col-12 > .list-unstyled"
+              ],
+              "html": "<ul class=\"list-unstyled\">\n                                                                            <span class=\"\">\n        <p>Mo. - Sa.: 09:30 - 20:00 Uhr</p>\n    </span>\n                    </ul>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "description": "Ensure all page content is contained by landmarks",
+          "help": "All page content should be contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+          "tags": [
+            "cat.keyboard",
+            "best-practice"
+          ],
+          "node_count": 8,
+          "nodes": [
+            {
+              "target": [
+                ".mt-5"
+              ],
+              "html": "<div class=\"container mt-5 mb-5\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-lg-4.col-12.first:nth-child(1)"
+              ],
+              "html": "<li class=\"col-12 col-lg-4 first\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-lg-4.last.col-12"
+              ],
+              "html": "<li class=\"col-12 col-lg-4 first last\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "a[href$=\"citti-park.de/\"]"
+              ],
+              "html": "<a href=\"https://www.citti-park.de/\" target=\"_blank\">\n                                    <img src=\"/build/cittipark/images/cittipark_white.0740e8b9.svg\" alt=\"CITTI-PARK\" width=\"150\" height=\"24\" class=\"d-block\">\n                            </a>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".mt-n1"
+              ],
+              "html": "<div class=\"mt-n1\">\n                <a class=\"text-decoration-none text-white\" href=\"/de/imprint\">Impressum</a>\n            </div>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 21,
+          "nodes": [
+            {
+              "target": [
+                "h3"
+              ],
+              "html": "<h3 class=\"text-center d-inline-block\">\n                                    Über CITTI Ticketcenter\n                                </h3>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".st4 > tspan[x=\"0\"][y=\"0\"]"
+              ],
+              "html": "<tspan x=\"0\" y=\"0\">Abfahrt</tspan>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".st13 > tspan[x=\"0\"][y=\"0\"]"
+              ],
+              "html": "<tspan x=\"0\" y=\"0\">CITTI</tspan>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "axe_error": ""
+    },
+    {
+      "url": "https://www.citti-park-luebeck.de/shops",
+      "viewport": "desktop",
+      "loaded": true,
+      "title": "Shops | CITTI-PARK Lübeck",
+      "score": 0,
+      "violations_count": 8,
+      "incomplete_count": 1,
+      "critical_count": 2,
+      "serious_count": 3,
+      "moderate_count": 3,
+      "minor_count": 0,
+      "top_issues": "region(moderate,309), color-contrast(serious,8), link-name(serious,6), heading-order(moderate,2), list(serious,2), select-name(critical,2)",
+      "overlays": [],
+      "keyboard": {
+        "tabbed_elements": [
+          {
+            "cls": "",
+            "href": "",
+            "id": "usercentrics-root",
+            "outline": "none 3px",
+            "rect": {
+              "bottom": 10124.015625,
+              "height": 0,
+              "left": 0,
+              "right": 1440,
+              "top": 10124.015625,
+              "width": 1440,
+              "x": 0,
+              "y": 10124.015625
+            },
+            "tag": "DIV",
+            "text": ""
+          }
+        ],
+        "focus_count": 1,
+        "keyboard_warning": "Sehr wenige fokussierbare Elemente im TAB-Smoke-Test"
+      },
+      "screenshot_path": "evidence/citti-park-luebeck.de/80b559143b_desktop.png",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 8,
+          "nodes": [
+            {
+              "target": [
+                ".text-muted[href$=\"centerauswahl\"][target=\"_self\"] > .menu-item-title"
+              ],
+              "html": "<span class=\"menu-item-title\">\n                    Centerauswahl\n                </span>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".text-muted[href$=\"oeffnungszeiten\"][target=\"_self\"] > .menu-item-title"
+              ],
+              "html": "<span class=\"menu-item-title\">\n                    Öffnungszeiten\n                </span>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".text-muted[href$=\"gutscheine\"][aria-label=\"Mehr über \\\"Gutscheine\\\" lesen\"] > .menu-item-title"
+              ],
+              "html": "<span class=\"menu-item-title\">\n                    Gutscheine\n                </span>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".text-muted[href$=\"newsletter\"][aria-label=\"Mehr über \\\"Newsletter\\\" lesen\"] > .menu-item-title"
+              ],
+              "html": "<span class=\"menu-item-title\">\n                    Newsletter\n                </span>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".text-muted[href$=\"citti-park-magazin\"][aria-label=\"Mehr über \\\"MAGAZIN\\\" lesen\"] > .menu-item-title"
+              ],
+              "html": "<span class=\"menu-item-title\">\n                    MAGAZIN\n                </span>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "description": "Ensure the order of headings is semantically correct",
+          "help": "Heading levels should only increase by one",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=axeAPI",
+          "tags": [
+            "cat.semantics",
+            "best-practice"
+          ],
+          "node_count": 2,
+          "nodes": [
+            {
+              "target": [
+                "h3"
+              ],
+              "html": "<h3 class=\"text-center\">Unsere Shops</h3>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-md-6.col-xl-3.col-lg-4:nth-child(1) > .box-shadow.flex-column.flex-grow-1 > .p-4.w-100 > h5"
+              ],
+              "html": "<h5>\n                                    's Fachl\n                                </h5>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "description": "Ensure every form element has a label",
+          "help": "Form elements must have labels",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/label?application=axeAPI",
+          "tags": [
+            "cat.forms",
+            "wcag2a",
+            "wcag412",
+            "section508",
+            "section508.22.n",
+            "TTv5",
+            "TT5.c",
+            "EN-301-549",
+            "EN-9.4.1.2",
+            "ACT"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "#q"
+              ],
+              "html": "<input type=\"text\" class=\"form-control\" id=\"q\" name=\"q\" value=\"\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "landmark-unique",
+          "impact": "moderate",
+          "description": "Ensure landmarks are unique",
+          "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/landmark-unique?application=axeAPI",
+          "tags": [
+            "cat.semantics",
+            "best-practice"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                ".navigation-desktop.d-lg-block.bg-light > .container > nav"
+              ],
+              "html": "<nav class=\"navbar navbar-expand-lg navbar-light py-1\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "description": "Ensure links have discernible text",
+          "help": "Links must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-name?application=axeAPI",
+          "tags": [
+            "cat.name-role-value",
+            "wcag2a",
+            "wcag244",
+            "wcag412",
+            "section508",
+            "section508.22.a",
+            "TTv5",
+            "TT6.a",
+            "EN-301-549",
+            "EN-9.2.4.4",
+            "EN-9.4.1.2",
+            "ACT"
+          ],
+          "node_count": 6,
+          "nodes": [
+            {
+              "target": [
+                ".ms-xl-3 > .nav-item:nth-child(1) > .p-lg-2.py-2[target=\"_blank\"]"
+              ],
+              "html": "<a target=\"_blank\" class=\"nav-link py-2 px-3 p-lg-2 text-body\" href=\"https://www.instagram.com/cittipark.luebeck\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".ms-xl-3 > .nav-item:nth-child(2) > .p-lg-2.py-2[target=\"_blank\"]"
+              ],
+              "html": "<a target=\"_blank\" class=\"nav-link py-2 px-3 p-lg-2 text-body\" href=\"https://www.facebook.com/CITTIPARK.Luebeck\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".ms-xl-3 > .nav-item:nth-child(3) > .p-lg-2.py-2[target=\"_blank\"]"
+              ],
+              "html": "<a target=\"_blank\" class=\"nav-link py-2 px-3 p-lg-2 text-body\" href=\"https://www.youtube.com/user/CittiPark\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-auto:nth-child(1) > .fs-4.text-white[target=\"_blank\"]"
+              ],
+              "html": "<a target=\"_blank\" href=\"https://www.instagram.com/cittipark.luebeck\" class=\"text-white text-decoration-none fs-4\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-auto:nth-child(2) > .fs-4.text-white[target=\"_blank\"]"
+              ],
+              "html": "<a target=\"_blank\" href=\"https://www.facebook.com/CITTIPARK.Luebeck\" class=\"text-white text-decoration-none fs-4\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "list",
+          "impact": "serious",
+          "description": "Ensure that lists are structured correctly",
+          "help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/list?application=axeAPI",
+          "tags": [
+            "cat.structure",
+            "wcag2a",
+            "wcag131",
+            "EN-301-549",
+            "EN-9.1.3.1"
+          ],
+          "node_count": 2,
+          "nodes": [
+            {
+              "target": [
+                ".gx-4"
+              ],
+              "html": "<ul class=\"row gx-4 gy-4 list-unstyled small\" style=\"line-height: 2.5;\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".last.first > .list-unstyled"
+              ],
+              "html": "<ul class=\"list-unstyled\">\n                                                                            <span class=\"\">\n        <p>Mo. - Sa.: 09:30 - 20:00 Uhr</p>\n    </span>\n                    </ul>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "description": "Ensure all page content is contained by landmarks",
+          "help": "All page content should be contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+          "tags": [
+            "cat.keyboard",
+            "best-practice"
+          ],
+          "node_count": 309,
+          "nodes": [
+            {
+              "target": [
+                ".card-img-overlay"
+              ],
+              "html": "<div class=\"card-img-overlay position-relative position-xl-absolute header-image-overlay d-block px-0 px-xl-4 mx-xl-0 py-4 text-body text-decoration-none top-0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".Body > .row > .col-12 > .row"
+              ],
+              "html": "<div class=\"row  \">\n                            <div class=\"col-12 \">\n\n        \n                                    <div class=\"pb-4\">\n    <h3 class=\"text-center\">Unsere Shops</h3>\n</div>\n                        </div>\n            </div>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "form[data-ajax-target=\".shopsearch\"] > .g-4.row > .col-md-6.col-xl-3.col-lg-4:nth-child(1)"
+              ],
+              "html": "<div class=\"col-12 col-md-6 col-lg-4 col-xl-3\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "form[data-ajax-target=\".shopsearch\"] > .g-4.row > .col-md-6.col-xl-3.col-lg-4:nth-child(2)"
+              ],
+              "html": "<div class=\"col-12 col-md-6 col-lg-4 col-xl-3\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#q"
+              ],
+              "html": "<input type=\"text\" class=\"form-control\" id=\"q\" name=\"q\" value=\"\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "select-name",
+          "impact": "critical",
+          "description": "Ensure select element has an accessible name",
+          "help": "Select element must have an accessible name",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/select-name?application=axeAPI",
+          "tags": [
+            "cat.forms",
+            "wcag2a",
+            "wcag412",
+            "section508",
+            "section508.22.n",
+            "TTv5",
+            "TT5.c",
+            "EN-301-549",
+            "EN-9.4.1.2",
+            "ACT"
+          ],
+          "node_count": 2,
+          "nodes": [
+            {
+              "target": [
+                "#park"
+              ],
+              "html": "<select class=\"form-select\" id=\"park\" name=\"park\" data-onchange-submit=\"\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#searchCategory"
+              ],
+              "html": "<select class=\"form-select\" id=\"searchCategory\" name=\"searchCategory\" data-onchange-submit=\"\">",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 8,
+          "nodes": [
+            {
+              "target": [
+                ".fw-semi-bold"
+              ],
+              "html": "<div class=\"text-primary fw-semi-bold text-uppercase small\">\n                                        CITTI-PARK Lübeck\n                                    </div>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "h1"
+              ],
+              "html": "<h1>Shopping-Erlebnis</h1>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-xl-5 > p"
+              ],
+              "html": "<p>Entdecken Sie aktuelle Mode-Trends und Angebote in über 90 Fachgeschäften und Boutiquen.</p>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "axe_error": ""
+    }
+  ],
+  "risk": {
+    "audit_score": 22,
+    "risk_label": "hoch - manuelle Prüfung priorisieren",
+    "manual_review_needed": "ja",
+    "legal_safe_status": "Automatisch erkannte Barrierefreiheitsrisiken. Keine endgültige BFSG-Verstoßbehauptung ohne manuelle Prüfung."
+  },
+  "note": "Automatischer Risikoscan. Keine abschließende BFSG- oder WCAG-Konformitätsaussage ohne manuelle Prüfung."
+}

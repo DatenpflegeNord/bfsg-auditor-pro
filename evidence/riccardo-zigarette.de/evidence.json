@@ -1,0 +1,827 @@
+{
+  "scanned_at_utc": "2026-05-07T20:37:27+00:00",
+  "base_url": "https://www.riccardo-zigarette.de",
+  "domain": "riccardo-zigarette.de",
+  "input_row": {
+    "found_at_utc": "2026-05-07T20:24:43+00:00",
+    "url": "https://www.riccardo-zigarette.de",
+    "domain": "riccardo-zigarette.de",
+    "normalized_domain": "riccardo-zigarette.de",
+    "business_name": "Riccardo E-Zigaretten Store",
+    "keyword": "Online-Shop",
+    "plz": "23560",
+    "city": "Lübeck",
+    "place_id": "ChIJtbZDorsJskcRGFvEcreyF0U",
+    "google_types": "establishment,point_of_interest,store",
+    "google_rating": "4.9",
+    "google_user_ratings_total": "913",
+    "formatted_address": "Holstenstraße 13-15, 23552 Lübeck, Deutschland",
+    "source": "google_places_textsearch_seed_v5",
+    "Location_Confidence": "1.0",
+    "Location_Reason": "address_plz_match",
+    "Location_Rejected_Reason": "",
+    "Transaction_Checked_At_UTC": "2026-05-07T20:27:27+00:00",
+    "Transaction_Score": "100",
+    "Transaction_Reasons": "Checkout_Found+35 | Cart_Found+25 | Payment_Words_Found+20 | Login_Found+12 | lead-keyword+10",
+    "Transaction_Type": "online_shop",
+    "Consumer_Contract_Likelihood": "hoch",
+    "Transaction_Evidence_URLs": "https://www.riccardo-zigarette.de/ | https://www.riccardo-zigarette.de/websale8/?Ctx=%257bver%252f8%252fver%257d%257bst%252f3ee%252fst%257d%257bcmd%252f0%252fcmd%257d%257bm%252fwebsale%252fm%257d%257bs%252friccardo%252fs%257d%257bl%252fDeutsch%252fl%257d%257bpoh%252f1%252fpoh%257d%257bmd5%252fffdbd21db28a2da84cdf519ea3df08b7%252fmd5%257d",
+    "Transaction_Evidence_JSON": "test_outputs_luebeck/transaction_evidence/riccardo-zigarette.de/transaction_evidence.json",
+    "Pages_Transaction_Checked": "2",
+    "Cart_Found": "yes",
+    "Checkout_Found": "yes",
+    "Booking_Found": "no",
+    "Appointment_Found": "no",
+    "Ticket_Found": "no",
+    "Subscription_Found": "no",
+    "Login_Found": "yes",
+    "Payment_Words_Found": "yes",
+    "Product_Price_Found": "no",
+    "Contract_Form_Found": "no",
+    "Cold_Email_Allowed": "no",
+    "Postal_Letter_Recommended": "yes_after_manual_review",
+    "DSGVO_Data_Minimization": "public business website data only; no accounts, no form submission, no private data intentionally collected",
+    "DSGVO_Source": "public website / Google Places lead",
+    "DSGVO_Delete_After": "2026-11-03",
+    "Transaction_Rejected_Reason": "",
+    "Healthcare_Lead": "no",
+    "Healthcare_Digital_Service": "yes",
+    "Online_Appointment_Found": "no",
+    "Video_Consultation_Found": "no",
+    "Online_Prescription_Found": "no",
+    "Patient_Portal_Found": "yes",
+    "Microenterprise_Risk": "low",
+    "Microenterprise_Reasons": "Rechtsform/Größe/Reviews sprechen gegen Kleinstunternehmen",
+    "BFSG_Applicability_Status": "A",
+    "BFSG_Exclusion_Risk": "low",
+    "BFSG_Exclusion_Reasons": "starke Transaktionsstrecke",
+    "Recommended_Action": "audit_prioritize",
+    "Applicability_Rejected_Reason": ""
+  },
+  "scope": {
+    "scope_score": 100,
+    "scope_label": "wahrscheinlich BFSG-relevant",
+    "scope_reasons": [
+      "Formularstrecke",
+      "Kauf-/Bestellfunktion",
+      "Login/Kundenkonto",
+      "Online-Shop Hinweis",
+      "Shop/Checkout/Zahlung"
+    ]
+  },
+  "company": {
+    "Company_Name": "Kostenfreie lieferung 30 Tage Rückgaberecht Kostenlose retoure stores support Karriere Sie haben keine Produkte auf der",
+    "Entscheider": "Lorenz Endler Handelsregister Amtsgericht Essen",
+    "Email": "info@riccardo-zigarette.de",
+    "Telefon": "0395 - 3629820",
+    "HRB_HRA": "HRB 36052",
+    "Impressum_URL": "https://www.riccardo-zigarette.de/impressum",
+    "Adresse_Text": "29820 Telefonnummer Ausland",
+    "Mitarbeiter_Hinweis": "Unbekannt",
+    "Extraction_Error": ""
+  },
+  "pages": [
+    {
+      "url": "https://www.riccardo-zigarette.de",
+      "viewport": "desktop",
+      "loaded": true,
+      "title": "E-Zigaretten & Pod Systeme günstig kaufen | Riccardo Shop",
+      "score": 0,
+      "violations_count": 8,
+      "incomplete_count": 4,
+      "critical_count": 4,
+      "serious_count": 2,
+      "moderate_count": 2,
+      "minor_count": 0,
+      "top_issues": "button-name(critical,15), color-contrast(serious,11), link-name(serious,7), aria-valid-attr(critical,4), label(critical,4), region(moderate,4)",
+      "overlays": [],
+      "keyboard": {
+        "tabbed_elements": [
+          {
+            "cls": "",
+            "href": "https://www.riccardo-zigarette.de/cms/rueckgabe-und-rueckerstattung",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 25,
+              "height": 19,
+              "left": 1160.875,
+              "right": 1304.5,
+              "top": 6,
+              "width": 143.625,
+              "x": 1160.875,
+              "y": 6
+            },
+            "tag": "A",
+            "text": "KOSTENLOSE RETOURE"
+          },
+          {
+            "cls": "",
+            "href": "https://www.riccardo-zigarette.de/",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 89.015625,
+              "height": 19,
+              "left": 120.5,
+              "right": 388.46875,
+              "top": 70.015625,
+              "width": 267.96875,
+              "x": 120.5,
+              "y": 70.015625
+            },
+            "tag": "A",
+            "text": ""
+          },
+          {
+            "cls": "",
+            "href": "https://www.riccardo-zigarette.de/cms/stores",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 75.921875,
+              "height": 16,
+              "left": 1147.609375,
+              "right": 1185.9375,
+              "top": 59.921875,
+              "width": 38.328125,
+              "x": 1147.609375,
+              "y": 59.921875
+            },
+            "tag": "A",
+            "text": "STORES"
+          },
+          {
+            "cls": "",
+            "href": "https://www.riccardo-zigarette.de/karriere",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 75.921875,
+              "height": 16,
+              "left": 1254.75,
+              "right": 1304.5,
+              "top": 59.921875,
+              "width": 49.75,
+              "x": 1254.75,
+              "y": 59.921875
+            },
+            "tag": "A",
+            "text": "KARRIERE"
+          },
+          {
+            "cls": "form-control p-0",
+            "href": "",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 122.921875,
+              "height": 32,
+              "left": 420.5,
+              "right": 829.5,
+              "top": 90.921875,
+              "width": 409,
+              "x": 420.5,
+              "y": 90.921875
+            },
+            "tag": "INPUT",
+            "text": ""
+          },
+          {
+            "cls": "btn btnSearchSubmit",
+            "href": "",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 122.921875,
+              "height": 32,
+              "left": 828.5,
+              "right": 854.5,
+              "top": 90.921875,
+              "width": 26,
+              "x": 828.5,
+              "y": 90.921875
+            },
+            "tag": "BUTTON",
+            "text": ""
+          },
+          {
+            "cls": "",
+            "href": "https://www.riccardo-zigarette.de/$WS/riccardo/websale8_shop-riccardo/benutzer/templates/files/Computer_Bild_Zertifikat_2023.pdf",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 97.21875,
+              "height": 19,
+              "left": 910.5,
+              "right": 1079.453125,
+              "top": 78.21875,
+              "width": 168.953125,
+              "x": 910.5,
+              "y": 78.21875
+            },
+            "tag": "A",
+            "text": ""
+          },
+          {
+            "cls": "newMenu position-relative",
+            "href": "https://www.riccardo-zigarette.de/websale8/?Ctx=%257bver%252f8%252fver%257d%257bst%252f420%252fst%257d%257bcmd%252f0%252fcmd%257d%257bm%252fwebsale%252fm%257d%257bs%252friccardo%252fs%257d%257bl%252fDeutsch%252fl%257d%257bpoh%252f1%252fpoh%257d%257bmd5%252fefa91616926d20af40fdf9d5e4064ed4%252fmd5%257d",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 117.921875,
+              "height": 23,
+              "left": 1165.09375,
+              "right": 1188.09375,
+              "top": 94.921875,
+              "width": 23,
+              "x": 1165.09375,
+              "y": 94.921875
+            },
+            "tag": "A",
+            "text": ""
+          },
+          {
+            "cls": "newMenu position-relative",
+            "href": "https://www.riccardo-zigarette.de/websale8/?Ctx=%257bver%252f8%252fver%257d%257bst%252f407%252fst%257d%257bcmd%252f1%252fcmd%257d%257bm%252fwebsale%252fm%257d%257bs%252friccardo%252fs%257d%257bl%252fDeutsch%252fl%257d%257bpoh%252f1%252fpoh%257d%257bssl%252fx%252fssl%257d%257bmd5%252f69375b4e6fe61b0ebbd818847defeee6%252fmd5%257d&type=LoginUser",
+            "id": "quicklogin_text",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 117.921875,
+              "height": 23,
+              "left": 1223.296875,
+              "right": 1246.296875,
+              "top": 94.921875,
+              "width": 23,
+              "x": 1223.296875,
+              "y": 94.921875
+            },
+            "tag": "A",
+            "text": ""
+          },
+          {
+            "cls": "newMenu",
+            "href": "https://www.riccardo-zigarette.de/websale8/?Ctx=%257bver%252f8%252fver%257d%257bst%252f3ee%252fst%257d%257bcmd%252f0%252fcmd%257d%257bm%252fwebsale%252fm%257d%257bs%252friccardo%252fs%257d%257bl%252fDeutsch%252fl%257d%257bpoh%252f1%252fpoh%257d%257bmd5%252fffdbd21db28a2da84cdf519ea3df08b7%252fmd5%257d",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 117.921875,
+              "height": 23,
+              "left": 1281.5,
+              "right": 1304.5,
+              "top": 94.921875,
+              "width": 23,
+              "x": 1281.5,
+              "y": 94.921875
+            },
+            "tag": "A",
+            "text": ""
+          },
+          {
+            "cls": "ws_dropdown_hover text-uppercase p-md-2 d-block",
+            "href": "https://www.riccardo-zigarette.de/neu",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 171.953125,
+              "height": 32.03125,
+              "left": 112.5,
+              "right": 153.53125,
+              "top": 139.921875,
+              "width": 41.03125,
+              "x": 112.5,
+              "y": 139.921875
+            },
+            "tag": "A",
+            "text": "NEU"
+          },
+          {
+            "cls": "ws_dropdown_hover text-uppercase p-md-2 d-block",
+            "href": "https://www.riccardo-zigarette.de/e-zigaretten",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 171.953125,
+              "height": 32.03125,
+              "left": 153.53125,
+              "right": 292.21875,
+              "top": 139.921875,
+              "width": 138.6875,
+              "x": 153.53125,
+              "y": 139.921875
+            },
+            "tag": "A",
+            "text": "E-ZIGARETTEN SETS"
+          }
+        ],
+        "focus_count": 12,
+        "keyboard_warning": ""
+      },
+      "screenshot_path": "evidence/riccardo-zigarette.de/1ff4bdaf59_desktop.png",
+      "violations": [
+        {
+          "id": "aria-valid-attr",
+          "impact": "critical",
+          "description": "Ensure attributes that begin with aria- are valid ARIA attributes",
+          "help": "ARIA attributes must conform to valid names",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-valid-attr?application=axeAPI",
+          "tags": [
+            "cat.aria",
+            "wcag2a",
+            "wcag412",
+            "EN-301-549",
+            "EN-9.4.1.2"
+          ],
+          "node_count": 4,
+          "nodes": [
+            {
+              "target": [
+                "#num_10007295\\.4640"
+              ],
+              "html": "<input class=\"form-control quantity-input\" type=\"text\" id=\"num_10007295.4640\" aria-content=\"content_10007295.4640\" aria-value=\"input_10007295.4640\" name=\"input_qty_1\" value=\"1\" data-pr-price=\"9.95\" tabindex=\"0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#num_10007284\\.4583"
+              ],
+              "html": "<input class=\"form-control quantity-input\" type=\"text\" id=\"num_10007284.4583\" aria-content=\"content_10007284.4583\" aria-value=\"input_10007284.4583\" name=\"input_qty_3\" value=\"1\" data-pr-price=\"11.95\" tabindex=\"0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#num_10000250\\.2770"
+              ],
+              "html": "<input class=\"form-control quantity-input\" type=\"text\" id=\"num_10000250.2770\" aria-content=\"content_10000250.2770\" aria-value=\"input_10000250.2770\" name=\"input_qty_9\" value=\"1\" data-pr-price=\"9.99\" tabindex=\"0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#num_10001179\\.2770"
+              ],
+              "html": "<input class=\"form-control quantity-input\" type=\"text\" id=\"num_10001179.2770\" aria-content=\"content_10001179.2770\" aria-value=\"input_10001179.2770\" name=\"input_qty_12\" value=\"1\" data-pr-price=\"9.99\" tabindex=\"0\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "button-name",
+          "impact": "critical",
+          "description": "Ensure buttons have discernible text",
+          "help": "Buttons must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/button-name?application=axeAPI",
+          "tags": [
+            "cat.name-role-value",
+            "wcag2a",
+            "wcag412",
+            "section508",
+            "section508.22.a",
+            "TTv5",
+            "TT6.a",
+            "EN-301-549",
+            "EN-9.4.1.2",
+            "ACT"
+          ],
+          "node_count": 15,
+          "nodes": [
+            {
+              "target": [
+                ".btnSearchSubmit"
+              ],
+              "html": "<button class=\"btn btnSearchSubmit\" type=\"submit\"><span class=\"icon-search\" aria-hidden=\"true\"></span></button>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".single-item > .slick-prev.slick-arrow[type=\"button\"]"
+              ],
+              "html": "<button type=\"button\" class=\"slick-prev btn slick-arrow\" style=\"\"><span class=\"icon icon-chevronleft\"></span></button>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".single-item > .slick-next.slick-arrow[type=\"button\"]"
+              ],
+              "html": "<button type=\"button\" class=\"slick-next btn slick-arrow\" style=\"\"><span class=\"icon icon-chevronright\"></span></button>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".pb-5.gradientbg:nth-child(2) > .container-fluid > .productslider.slick-initialized.slick-slider > .slick-disabled.slick-prev.slick-arrow"
+              ],
+              "html": "<button type=\"button\" class=\"slick-prev btn slick-arrow slick-disabled\" aria-disabled=\"true\" style=\"\"><span class=\"icon icon-chevronleft\"></span></button>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "button[data-number=\"10007295.4640\"]"
+              ],
+              "html": "<button type=\"submit\" name=\"button_ws_product_addtobasket_ajax\" data-ws-ajax=\"basket\" class=\"btn btn-primary ajax-pr-basket-btn\" data-number=\"10007295.4640\" tabindex=\"0\"><span class=\"icon icon-cart-red\"></span></button>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 11,
+          "nodes": [
+            {
+              "target": [
+                ".ws_dropdown_hover.p-md-2[data-id=\"41\"]"
+              ],
+              "html": "<a href=\"https://www.riccardo-zigarette.de/Reduzierte-e-Zigaretten-Liquids\" data-id=\"41\" data-loadsubmenu=\"https://www.riccardo-zigarette.de/incl_ajax_submenu-htm.htm?websale8=riccardo&amp;tpl=incl_ajax_submenu.htm&amp;otp1=41&amp;otp2=SALE\" class=\"ws_dropdown_hover text-uppercase p-md-2 d-block\" role=\"button\" aria-haspopup=\"true\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "a:nth-child(1) > small"
+              ],
+              "html": "<small style=\"font-size:10px;opacity:0.8;\">NIKOTINSALZ E-LIQUID</small>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "a:nth-child(1) > div > s"
+              ],
+              "html": "<s style=\"opacity:0.6;margin-right:3px;\">10,90€</s>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "a:nth-child(2) > small"
+              ],
+              "html": "<small style=\"font-size:10px;opacity:0.8;\">NIKOTINSALZ E-LIQUID</small>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "a:nth-child(2) > div > s"
+              ],
+              "html": "<s style=\"opacity:0.6;margin-right:3px;\">11,95€</s>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "label",
+          "impact": "critical",
+          "description": "Ensure every form element has a label",
+          "help": "Form elements must have labels",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/label?application=axeAPI",
+          "tags": [
+            "cat.forms",
+            "wcag2a",
+            "wcag412",
+            "section508",
+            "section508.22.n",
+            "TTv5",
+            "TT5.c",
+            "EN-301-549",
+            "EN-9.4.1.2",
+            "ACT"
+          ],
+          "node_count": 4,
+          "nodes": [
+            {
+              "target": [
+                "#num_10007295\\.4640"
+              ],
+              "html": "<input class=\"form-control quantity-input\" type=\"text\" id=\"num_10007295.4640\" aria-content=\"content_10007295.4640\" aria-value=\"input_10007295.4640\" name=\"input_qty_1\" value=\"1\" data-pr-price=\"9.95\" tabindex=\"0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#num_10007284\\.4583"
+              ],
+              "html": "<input class=\"form-control quantity-input\" type=\"text\" id=\"num_10007284.4583\" aria-content=\"content_10007284.4583\" aria-value=\"input_10007284.4583\" name=\"input_qty_3\" value=\"1\" data-pr-price=\"11.95\" tabindex=\"0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#num_10000250\\.2770"
+              ],
+              "html": "<input class=\"form-control quantity-input\" type=\"text\" id=\"num_10000250.2770\" aria-content=\"content_10000250.2770\" aria-value=\"input_10000250.2770\" name=\"input_qty_9\" value=\"1\" data-pr-price=\"9.99\" tabindex=\"0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#num_10001179\\.2770"
+              ],
+              "html": "<input class=\"form-control quantity-input\" type=\"text\" id=\"num_10001179.2770\" aria-content=\"content_10001179.2770\" aria-value=\"input_10001179.2770\" name=\"input_qty_12\" value=\"1\" data-pr-price=\"9.99\" tabindex=\"0\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "description": "Ensure links have discernible text",
+          "help": "Links must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-name?application=axeAPI",
+          "tags": [
+            "cat.name-role-value",
+            "wcag2a",
+            "wcag244",
+            "wcag412",
+            "section508",
+            "section508.22.a",
+            "TTv5",
+            "TT6.a",
+            "EN-301-549",
+            "EN-9.2.4.4",
+            "EN-9.4.1.2",
+            "ACT"
+          ],
+          "node_count": 7,
+          "nodes": [
+            {
+              "target": [
+                "#headerMemolist > .newMenu.position-relative"
+              ],
+              "html": "<a href=\"https://www.riccardo-zigarette.de/websale8/?Ctx=%257bver%252f8%252fver%257d%257bst%252f420%252fst%257d%257bcmd%252f0%252fcmd%257d%257bm%252fwebsale%252fm%257d%257bs%252friccardo%252fs%257d%257bl%252fDeutsch%252fl%257d%257bpoh%252f1%252fpoh%257d%257bmd5%252fefa91616926d20af40fdf9d5e4064ed4%252fmd5%257d\" class=\"newMenu position-relative\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#quicklogin_text"
+              ],
+              "html": "<a href=\"https://www.riccardo-zigarette.de/websale8/?Ctx=%257bver%252f8%252fver%257d%257bst%252f407%252fst%257d%257bcmd%252f1%252fcmd%257d%257bm%252fwebsale%252fm%257d%257bs%252friccardo%252fs%257d%257bl%252fDeutsch%252fl%257d%257bpoh%252f1%252fpoh%257d%257bssl%252fx%252fssl%257d%257bmd5%252f69375b4e6fe61b0ebbd818847defeee6%252fmd5%257d&amp;type=LoginUser\" class=\"newMenu position-relative\" id=\"quicklogin_text\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#headerBasket > .newMenu"
+              ],
+              "html": "<a href=\"https://www.riccardo-zigarette.de/websale8/?Ctx=%257bver%252f8%252fver%257d%257bst%252f3ee%252fst%257d%257bcmd%252f0%252fcmd%257d%257bm%252fwebsale%252fm%257d%257bs%252friccardo%252fs%257d%257bl%252fDeutsch%252fl%257d%257bpoh%252f1%252fpoh%257d%257bmd5%252fffdbd21db28a2da84cdf519ea3df08b7%252fmd5%257d\" class=\"newMenu\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#slick-slide30 > div > .banner04.slider-item > a"
+              ],
+              "html": "<a href=\"https://www.riccardo-zigarette.de/new-firecastle-e-liquid\" tabindex=\"0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".slick-current[data-slick-index=\"0\"][aria-hidden=\"false\"] > div > .text-center > .mx-2.d-block"
+              ],
+              "html": "<a href=\"https://www.riccardo-zigarette.de/new-firecastle-e-liquid\" class=\"d-block mx-2\" tabindex=\"0\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+          "help": "Page should contain a level-one heading",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/page-has-heading-one?application=axeAPI",
+          "tags": [
+            "cat.semantics",
+            "best-practice"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "html": "<html lang=\"de\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "description": "Ensure all page content is contained by landmarks",
+          "help": "All page content should be contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+          "tags": [
+            "cat.keyboard",
+            "best-practice"
+          ],
+          "node_count": 4,
+          "nodes": [
+            {
+              "target": [
+                ".flipclock"
+              ],
+              "html": "<section class=\"flipclock p-2\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-xl.col-md-8.col-12"
+              ],
+              "html": "<div class=\"col-12 col-md-8 col-xl\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".btn_areement_ok"
+              ],
+              "html": "<div class=\"button_next btn_areement_ok btn btn-secondary btn-block\">OK</div>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".button_show_more"
+              ],
+              "html": "<div onclick=\"$('#cookieDetails').show(); $('#agreementPrivacy').addClass('isFixed'); $(body).addClass('noScroll');\" class=\"button_show_more cursor_pointer\">\n\t\t\t  <span class=\"d-flex align-items-center\">Cookies verwalten <span class=\"icon d-inline ml-2 icon-chevronright-red\"></span></span>\n\t\t\t</div>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "select-name",
+          "impact": "critical",
+          "description": "Ensure select element has an accessible name",
+          "help": "Select element must have an accessible name",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/select-name?application=axeAPI",
+          "tags": [
+            "cat.forms",
+            "wcag2a",
+            "wcag412",
+            "section508",
+            "section508.22.n",
+            "TTv5",
+            "TT5.c",
+            "EN-301-549",
+            "EN-9.4.1.2",
+            "ACT"
+          ],
+          "node_count": 4,
+          "nodes": [
+            {
+              "target": [
+                "select[name=\"input_var_10007295_1_1\"]"
+              ],
+              "html": "<select class=\"ws-ajax-select ws-ajax-select1 form-control\" onchange=\"\" size=\"1\" name=\"input_var_10007295_1_1\" tabindex=\"0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "select[name=\"input_var_10007284_1_3\"]"
+              ],
+              "html": "<select class=\"ws-ajax-select ws-ajax-select1 form-control\" onchange=\"\" size=\"1\" name=\"input_var_10007284_1_3\" tabindex=\"0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "select[name=\"input_var_10000250_1_9\"]"
+              ],
+              "html": "<select class=\"ws-ajax-select ws-ajax-select1 form-control\" onchange=\"\" size=\"1\" name=\"input_var_10000250_1_9\" tabindex=\"0\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "select[name=\"input_var_10001179_1_12\"]"
+              ],
+              "html": "<select class=\"ws-ajax-select ws-ajax-select1 form-control\" onchange=\"\" size=\"1\" name=\"input_var_10001179_1_12\" tabindex=\"0\">",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 114,
+          "nodes": [
+            {
+              "target": [
+                ".ws_dropdown_mobile[data-id=\"1809\"][aria-haspopup=\"true\"]"
+              ],
+              "html": "<a href=\"https://www.riccardo-zigarette.de/neu\" data-id=\"1809\" class=\"ws_dropdown_mobile text-uppercase d-block\" role=\"button\" aria-haspopup=\"true\">Neu</a>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".ws_ajax_loadpm.ws_dropdown_mobile[data-id=\"1\"]"
+              ],
+              "html": "<a href=\"https://www.riccardo-zigarette.de/e-zigaretten\" data-id=\"1\" data-loadsubmenu=\"https://www.riccardo-zigarette.de/incl_ajax_submenu-htm.htm?websale8=riccardo&amp;tpl=incl_ajax_submenu.htm&amp;otp1=1&amp;otp2=mobile\" class=\"ws_dropdown_mobile text-uppercase d-block ws_ajax_loadpm\" role=\"button\" aria-haspopup=\"true\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".ws_ajax_loadpm.ws_dropdown_mobile[data-id=\"10505\"]"
+              ],
+              "html": "<a href=\"https://www.riccardo-zigarette.de/pod-system\" data-id=\"10505\" data-loadsubmenu=\"https://www.riccardo-zigarette.de/incl_ajax_submenu-htm.htm?websale8=riccardo&amp;tpl=incl_ajax_submenu.htm&amp;otp1=10505&amp;otp2=mobile\" class=\"ws_dropdown_mobile text-uppercase d-block ws_ajax_loadpm\" role=\"button\" aria-haspopup=\"true\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "duplicate-id-aria",
+          "impact": "critical",
+          "description": "Ensure every id attribute value used in ARIA and in labels is unique",
+          "help": "IDs used in ARIA and labels must be unique",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/duplicate-id-aria?application=axeAPI",
+          "tags": [
+            "cat.parsing",
+            "wcag2a",
+            "wcag412",
+            "EN-301-549",
+            "EN-9.4.1.2"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                ".form-check.mb-2 > .form-check-input[type=\"checkbox\"]"
+              ],
+              "html": "<input class=\"form-check-input\" type=\"checkbox\" name=\"ws_name_checkbox_stay_signed_in\" id=\"ws_name_checkbox_stay_signed_inid\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "frame-tested",
+          "impact": "critical",
+          "description": "Ensure <iframe> and <frame> elements contain the axe-core script",
+          "help": "Frames should be tested with axe-core",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-tested?application=axeAPI",
+          "tags": [
+            "cat.structure",
+            "best-practice",
+            "review-item"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "iframe"
+              ],
+              "html": "<iframe title=\"Trustami\" seamless=\"seamless\" frameborder=\"0\" scrolling=\"no\" style=\"height: 100px; width: 100%; min-width: 100%; display: block;\"></iframe>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "link-in-text-block",
+          "impact": "serious",
+          "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+          "help": "Links must be distinguishable without relying on color",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-in-text-block?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2a",
+            "wcag141",
+            "TTv5",
+            "TT13.a",
+            "EN-301-549",
+            "EN-9.1.4.1"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "p:nth-child(2) > a[target=\"_blank\"]"
+              ],
+              "html": "<a href=\"https://www.riccardo-zigarette.de/datenschutz\" target=\"_blank\"><u>Datenschutzerklärung</u></a>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "axe_error": ""
+    }
+  ],
+  "risk": {
+    "audit_score": 0,
+    "risk_label": "hoch - manuelle Prüfung priorisieren",
+    "manual_review_needed": "ja",
+    "legal_safe_status": "Automatisch erkannte Barrierefreiheitsrisiken. Keine endgültige BFSG-Verstoßbehauptung ohne manuelle Prüfung."
+  },
+  "note": "Automatischer Risikoscan. Keine abschließende BFSG- oder WCAG-Konformitätsaussage ohne manuelle Prüfung."
+}

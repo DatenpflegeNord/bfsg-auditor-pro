@@ -1,0 +1,444 @@
+{
+  "scanned_at_utc": "2026-05-07T11:39:28+00:00",
+  "base_url": "https://pension-adler-luebeck.de",
+  "domain": "pension-adler-luebeck.de",
+  "input_row": {
+    "found_at_utc": "2026-05-07T11:27:12+00:00",
+    "url": "https://pension-adler-luebeck.de",
+    "domain": "pension-adler-luebeck.de",
+    "normalized_domain": "pension-adler-luebeck.de",
+    "business_name": "PENSION ADLER",
+    "keyword": "Zimmer buchen",
+    "plz": "23539",
+    "city": "Lübeck",
+    "place_id": "ChIJlwMmmlYPskcRdzhmGHnrUA4",
+    "google_types": "establishment,lodging,point_of_interest",
+    "google_rating": "2.7",
+    "google_user_ratings_total": "97",
+    "formatted_address": "Adlerstraße 5, 23554 Lübeck, Deutschland",
+    "source": "google_places_textsearch_seed_v5",
+    "Quality_Score": "85",
+    "Quality_Reasons": "keyword+55 | lokale-domain+20 | mittelgroesse+10",
+    "Rejected_Reason": "",
+    "Transaction_Checked_At_UTC": "2026-05-07T11:37:40+00:00",
+    "Transaction_Score": "60",
+    "Transaction_Reasons": "Booking_Found+30 | Payment_Words_Found+20 | lead-keyword+10",
+    "Transaction_Type": "booking",
+    "Consumer_Contract_Likelihood": "mittel",
+    "Transaction_Evidence_URLs": "https://pension-adler-luebeck.de/",
+    "Transaction_Evidence_JSON": "runs/20260507_113735/transaction_evidence/pension-adler-luebeck.de/transaction_evidence.json",
+    "Pages_Transaction_Checked": "1",
+    "Cart_Found": "no",
+    "Checkout_Found": "no",
+    "Booking_Found": "yes",
+    "Appointment_Found": "no",
+    "Ticket_Found": "no",
+    "Subscription_Found": "no",
+    "Login_Found": "no",
+    "Payment_Words_Found": "yes",
+    "Product_Price_Found": "no",
+    "Contract_Form_Found": "no",
+    "Cold_Email_Allowed": "no",
+    "Postal_Letter_Recommended": "yes_after_manual_review",
+    "DSGVO_Data_Minimization": "public business website data only; no accounts, no form submission, no private data intentionally collected",
+    "DSGVO_Source": "public website / Google Places lead",
+    "DSGVO_Delete_After": "2026-11-03",
+    "Transaction_Rejected_Reason": "",
+    "Healthcare_Lead": "no",
+    "Healthcare_Digital_Service": "no",
+    "Online_Appointment_Found": "no",
+    "Video_Consultation_Found": "no",
+    "Online_Prescription_Found": "no",
+    "Patient_Portal_Found": "no",
+    "Microenterprise_Risk": "medium",
+    "Microenterprise_Reasons": "Größe/Umsatz nicht sicher öffentlich belegbar",
+    "BFSG_Applicability_Status": "B",
+    "BFSG_Exclusion_Risk": "medium",
+    "BFSG_Exclusion_Reasons": "mögliche BFSG-relevante Transaktionsstrecke",
+    "Recommended_Action": "audit_manual_check",
+    "Applicability_Rejected_Reason": "",
+    "Contextual_Checked_At_UTC": "2026-05-07T11:38:37+00:00",
+    "Contextual_Risk_Score": "47",
+    "Contextual_Risk_Label": "mittel",
+    "Focus_Tab_Steps": "40",
+    "Focus_Offscreen_Count": "0",
+    "Focus_Missing_Indicator_Count": "21",
+    "Focus_Stuck_Risk": "no",
+    "Focus_Findings_JSON": "[{\"step\": 5, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelsbuchen.de/impressum-unterkunft/\", \"name\": \"\", \"text\": \"Impressum\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_113735/contextual_evidence/pension-adler-luebeck.de/page_1/focus_missing_indicator_5.png\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 6, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelsbuchen.de/datenschutz-cookies/\", \"name\": \"\", \"text\": \"Datenschutz & Cookies\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_113735/contextual_evidence/pension-adler-luebeck.de/page_1/focus_missing_indicator_6.png\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 7, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelfuehrung.de\", \"name\": \"\", \"text\": \"Copyright © 2026 | Dr. Kalvelage Webservices | Hotelfuehrung.de\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_113735/contextual_evidence/pension-adler-luebeck.de/page_1/focus_missing_indicator_7.png\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 9, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"button\", \"role\": \"\", \"id\": \"\", \"href\": \"\", \"name\": \"\", \"text\": \"Zustimmen\"}, \"css\": {\"outlineWidth\": \"3px\", \"outlineStyle\": \"none\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_113735/contextual_evidence/pension-adler-luebeck.de/page_1/focus_missing_indicator_9.png\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 10, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"button\", \"role\": \"\", \"id\": \"\", \"href\": \"\", \"name\": \"\", \"text\": \"Ablehnen\"}, \"css\": {\"outlineWidth\": \"3px\", \"outlineStyle\": \"none\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_113735/contextual_evidence/pension-adler-luebeck.de/page_1/focus_missing_indicator_10.png\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 11, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"body\", \"role\": \"\", \"id\": \"\", \"href\": \"\", \"name\": \"\", \"text\": \"Presented by Hotelsbuchen.de\\n\\nPension Adler\\nLübeck\\nEntspannt ankommen\\nPension Adler Lübeck\\nGute Lage & zentrale Anbindun\"}, \"css\": {\"outlineWidth\": \"3px\", \"outlineStyle\": \"none\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 16, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelsbuchen.de/impressum-unterkunft/\", \"name\": \"\", \"text\": \"Impressum\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 17, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelsbuchen.de/datenschutz-cookies/\", \"name\": \"\", \"text\": \"Datenschutz & Cookies\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 18, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelfuehrung.de\", \"name\": \"\", \"text\": \"Copyright © 2026 | Dr. Kalvelage Webservices | Hotelfuehrung.de\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 20, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"button\", \"role\": \"\", \"id\": \"\", \"href\": \"\", \"name\": \"\", \"text\": \"Zustimmen\"}, \"css\": {\"outlineWidth\": \"3px\", \"outlineStyle\": \"none\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 21, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"button\", \"role\": \"\", \"id\": \"\", \"href\": \"\", \"name\": \"\", \"text\": \"Ablehnen\"}, \"css\": {\"outlineWidth\": \"3px\", \"outlineStyle\": \"none\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 22, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"body\", \"role\": \"\", \"id\": \"\", \"href\": \"\", \"name\": \"\", \"text\": \"Presented by Hotelsbuchen.de\\n\\nPension Adler\\nLübeck\\nEntspannt ankommen\\nPension Adler Lübeck\\nGute Lage & zentrale Anbindun\"}, \"css\": {\"outlineWidth\": \"3px\", \"outlineStyle\": \"none\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 27, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelsbuchen.de/impressum-unterkunft/\", \"name\": \"\", \"text\": \"Impressum\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 28, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelsbuchen.de/datenschutz-cookies/\", \"name\": \"\", \"text\": \"Datenschutz & Cookies\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 29, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelfuehrung.de\", \"name\": \"\", \"text\": \"Copyright © 2026 | Dr. Kalvelage Webservices | Hotelfuehrung.de\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 31, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"button\", \"role\": \"\", \"id\": \"\", \"href\": \"\", \"name\": \"\", \"text\": \"Zustimmen\"}, \"css\": {\"outlineWidth\": \"3px\", \"outlineStyle\": \"none\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 32, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"button\", \"role\": \"\", \"id\": \"\", \"href\": \"\", \"name\": \"\", \"text\": \"Ablehnen\"}, \"css\": {\"outlineWidth\": \"3px\", \"outlineStyle\": \"none\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 33, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"body\", \"role\": \"\", \"id\": \"\", \"href\": \"\", \"name\": \"\", \"text\": \"Presented by Hotelsbuchen.de\\n\\nPension Adler\\nLübeck\\nEntspannt ankommen\\nPension Adler Lübeck\\nGute Lage & zentrale Anbindun\"}, \"css\": {\"outlineWidth\": \"3px\", \"outlineStyle\": \"none\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 38, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelsbuchen.de/impressum-unterkunft/\", \"name\": \"\", \"text\": \"Impressum\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 39, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelsbuchen.de/datenschutz-cookies/\", \"name\": \"\", \"text\": \"Datenschutz & Cookies\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}, {\"step\": 40, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"a\", \"role\": \"\", \"id\": \"\", \"href\": \"https://hotelfuehrung.de\", \"name\": \"\", \"text\": \"Copyright © 2026 | Dr. Kalvelage Webservices | Hotelfuehrung.de\"}, \"css\": {\"outlineWidth\": \"1px\", \"outlineStyle\": \"auto\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"\", \"url\": \"https://pension-adler-luebeck.de\"}]",
+    "Image_Alt_Candidate_Count": "3",
+    "Icon_Name_Candidate_Count": "0",
+    "Form_Label_Candidate_Count": "0",
+    "Visual_AI_Candidates_JSON": "[{\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://pension-adler-luebeck.de/wp-content/uploads/2025/08/Pension-Adler-Luebeck-gut-guenstig-in-Luebeck-uebernachten.jpg\", \"nearbyText\": \"\", \"rect\": {\"x\": 72, \"y\": -6307.015625, \"width\": 418.65625, \"height\": 313.984375}, \"url\": \"https://pension-adler-luebeck.de\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://pension-adler-luebeck.de/wp-content/uploads/2025/08/Schoene-Zimmer-in-der-Pension-Adler-Luebeck.jpg\", \"nearbyText\": \"\", \"rect\": {\"x\": 510.65625, \"y\": -6307.015625, \"width\": 418.671875, \"height\": 314}, \"url\": \"https://pension-adler-luebeck.de\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://pension-adler-luebeck.de/wp-content/uploads/2025/08/Pension-Adler-schoene-Zimmer-II.jpg\", \"nearbyText\": \"\", \"rect\": {\"x\": 949.328125, \"y\": -6307.015625, \"width\": 418.65625, \"height\": 313.984375}, \"url\": \"https://pension-adler-luebeck.de\"}]",
+    "Cognitive_Candidates_JSON": "[]",
+    "Contextual_Evidence_JSON": "runs/20260507_113735/contextual_evidence/pension-adler-luebeck.de/contextual_evidence.json",
+    "Contextual_Recommended_Action": "manual_review",
+    "Contextual_Privacy_Status": "datensparsam; no login; no form submit; no cart modification"
+  },
+  "scope": {
+    "scope_score": 25,
+    "scope_label": "niedrige BFSG-Scope-Sicherheit",
+    "scope_reasons": [
+      "Online-Buchung/Termin"
+    ]
+  },
+  "company": {
+    "Company_Name": "Unterkunft - Hotel buchen Impressum Unterkunft Wir möchten Sie darauf hinweisen, dass dies keine offizielle Webseite der",
+    "Entscheider": "Inhaber / Geschäftsführung",
+    "Email": "service@hotelsbuchen.de",
+    "Telefon": "Nicht gefunden",
+    "HRB_HRA": "Nicht gefunden",
+    "Impressum_URL": "https://hotelsbuchen.de/impressum-unterkunft/",
+    "Adresse_Text": "49658 Emstek",
+    "Mitarbeiter_Hinweis": "Unbekannt",
+    "Extraction_Error": ""
+  },
+  "pages": [
+    {
+      "url": "https://pension-adler-luebeck.de",
+      "viewport": "desktop",
+      "loaded": true,
+      "title": "Pension Adler Lübeck – Gemütlich wohnen nahe Zentrum",
+      "score": 64,
+      "violations_count": 2,
+      "incomplete_count": 1,
+      "critical_count": 0,
+      "serious_count": 0,
+      "moderate_count": 2,
+      "minor_count": 0,
+      "top_issues": "region(moderate,15), landmark-one-main(moderate,1)",
+      "overlays": [],
+      "keyboard": {
+        "tabbed_elements": [
+          {
+            "cls": "elementor-button elementor-button-link elementor-size-lg elementor-animation-grow",
+            "href": "tel:+4917684039681",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 2862.637451171875,
+              "height": 102.58740234375,
+              "left": 636.1118774414062,
+              "right": 991.7162475585938,
+              "top": 2760.050048828125,
+              "width": 355.6043701171875,
+              "x": 636.1118774414062,
+              "y": 2760.050048828125
+            },
+            "tag": "A",
+            "text": "Telefonisch:\n+49 176 84039681"
+          },
+          {
+            "cls": "elementor-button elementor-button-link elementor-size-lg elementor-animation-grow",
+            "href": "https://hotelsbuchen.de/recommends/hbh-pension-adler-luebeck/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 2511.199462890625,
+              "height": 127.71142578125,
+              "left": 995.9036254882812,
+              "right": 1351.705810546875,
+              "top": 2383.488037109375,
+              "width": 355.80218505859375,
+              "x": 995.9036254882812,
+              "y": 2383.488037109375
+            },
+            "tag": "A",
+            "text": "Online:\nPreise & Angebote"
+          },
+          {
+            "cls": "elementor-button elementor-button-link elementor-size-lg elementor-animation-grow",
+            "href": "https://hotelsbuchen.de/recommends/hbh-pension-adler-luebeck/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 3233.7236328125,
+              "height": 78.259765625,
+              "left": 836.3409423828125,
+              "right": 1134.4246826171875,
+              "top": 3155.4638671875,
+              "width": 298.083740234375,
+              "x": 836.3409423828125,
+              "y": 3155.4638671875
+            },
+            "tag": "A",
+            "text": "Mehr Infos >>"
+          },
+          {
+            "cls": "elementor-button elementor-button-link elementor-size-lg elementor-animation-grow",
+            "href": "https://hotelsbuchen.de/recommends/hbh-pension-adler-luebeck/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 5982.5673828125,
+              "height": 78.259765625,
+              "left": 553.5303955078125,
+              "right": 834.8758544921875,
+              "top": 5904.3076171875,
+              "width": 281.345458984375,
+              "x": 553.5303955078125,
+              "y": 5904.3076171875
+            },
+            "tag": "A",
+            "text": "Reservieren"
+          },
+          {
+            "cls": "",
+            "href": "https://hotelsbuchen.de/impressum-unterkunft/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 5301.4375,
+              "height": 45,
+              "left": 946.84375,
+              "right": 1298.125,
+              "top": 5256.4375,
+              "width": 351.28125,
+              "x": 946.84375,
+              "y": 5256.4375
+            },
+            "tag": "A",
+            "text": "Impressum"
+          },
+          {
+            "cls": "",
+            "href": "https://hotelsbuchen.de/datenschutz-cookies/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 3228.4375,
+              "height": 45,
+              "left": 946.84375,
+              "right": 1298.125,
+              "top": 3183.4375,
+              "width": 351.28125,
+              "x": 946.84375,
+              "y": 3183.4375
+            },
+            "tag": "A",
+            "text": "Datenschutz & Cookies"
+          },
+          {
+            "cls": "",
+            "href": "https://hotelfuehrung.de/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 1800.4375,
+              "height": 36,
+              "left": 946.84375,
+              "right": 1193.984375,
+              "top": 1764.4375,
+              "width": 247.140625,
+              "x": 946.84375,
+              "y": 1764.4375
+            },
+            "tag": "A",
+            "text": "Copyright © 2026 | Dr. Kalvelage Webservices | Hotelfuehrung.de"
+          },
+          {
+            "cls": "change-settings-button",
+            "href": "",
+            "id": "",
+            "outline": "none 3px",
+            "rect": {
+              "bottom": 1000,
+              "height": 18,
+              "left": 767.015625,
+              "right": 818.390625,
+              "top": 982,
+              "width": 51.375,
+              "x": 767.015625,
+              "y": 982
+            },
+            "tag": "BUTTON",
+            "text": "settings"
+          },
+          {
+            "cls": "mgbutton moove-gdpr-infobar-allow-all gdpr-fbo-0",
+            "href": "",
+            "id": "",
+            "outline": "none 3px",
+            "rect": {
+              "bottom": 1000,
+              "height": 36,
+              "left": 896.15625,
+              "right": 1028.0625,
+              "top": 964,
+              "width": 131.90625,
+              "x": 896.15625,
+              "y": 964
+            },
+            "tag": "BUTTON",
+            "text": "Zustimmen"
+          },
+          {
+            "cls": "mgbutton moove-gdpr-infobar-reject-btn gdpr-fbo-1 ",
+            "href": "",
+            "id": "",
+            "outline": "none 3px",
+            "rect": {
+              "bottom": 1000,
+              "height": 36,
+              "left": 1036.0625,
+              "right": 1157.859375,
+              "top": 964,
+              "width": 121.796875,
+              "x": 1036.0625,
+              "y": 964
+            },
+            "tag": "BUTTON",
+            "text": "Ablehnen"
+          },
+          {
+            "cls": "home wp-singular page-template page-template-elementor_canvas page page-id-23 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-canvas elementor-kit-8 elementor-page elementor-page-23 e--ua-blink e--ua-chrome e--ua-webkit gdpr-infobar-visible",
+            "href": "",
+            "id": "",
+            "outline": "none 3px",
+            "rect": {
+              "bottom": 1013.046875,
+              "height": 7537.046875,
+              "left": 0,
+              "right": 1425,
+              "top": -6524,
+              "width": 1425,
+              "x": 0,
+              "y": -6524
+            },
+            "tag": "BODY",
+            "text": "Presented by Hotelsbuchen.de\n\nPension Adler\nLübeck\nEntspannt ankommen\nPension Ad"
+          },
+          {
+            "cls": "elementor-button elementor-button-link elementor-size-lg elementor-animation-grow",
+            "href": "tel:+4917684039681",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": -3547.9599609375,
+              "height": 101.392578125,
+              "left": 638.1826782226562,
+              "right": 989.6454467773438,
+              "top": -3649.3525390625,
+              "width": 351.4627685546875,
+              "x": 638.1826782226562,
+              "y": -3649.3525390625
+            },
+            "tag": "A",
+            "text": "Telefonisch:\n+49 176 84039681"
+          }
+        ],
+        "focus_count": 12,
+        "keyboard_warning": ""
+      },
+      "screenshot_path": "evidence/pension-adler-luebeck.de/8004b3552b_desktop.png",
+      "violations": [
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "description": "Ensure the document has a main landmark",
+          "help": "Document should have one main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/landmark-one-main?application=axeAPI",
+          "tags": [
+            "cat.semantics",
+            "best-practice"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "html": "<html lang=\"de\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "description": "Ensure all page content is contained by landmarks",
+          "help": "All page content should be contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+          "tags": [
+            "cat.keyboard",
+            "best-practice"
+          ],
+          "node_count": 15,
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-4dbdf3e2"
+              ],
+              "html": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-4dbdf3e2 elementor-section-content-middle elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"4dbdf3e2\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".elementor-element-4b11c228"
+              ],
+              "html": "<div class=\"elementor-element elementor-element-4b11c228 e-con-full e-flex e-con e-parent e-lazyloaded\" data-id=\"4b11c228\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".elementor-element-54579e76"
+              ],
+              "html": "<div class=\"elementor-element elementor-element-54579e76 e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"54579e76\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".elementor-element-92eb0d4"
+              ],
+              "html": "<div class=\"elementor-element elementor-element-92eb0d4 e-con-full e-flex e-con e-parent e-lazyloaded\" data-id=\"92eb0d4\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".elementor-element-5a04278c"
+              ],
+              "html": "<div class=\"elementor-element elementor-element-5a04278c e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"5a04278c\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                ".elementor-element-7585a34f > h2"
+              ],
+              "html": "<h2 class=\"elementor-heading-title elementor-size-default\">Gästebewertungen im Überblick</h2>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "axe_error": ""
+    }
+  ],
+  "risk": {
+    "audit_score": 67,
+    "risk_label": "niedrig / Scope unklar",
+    "manual_review_needed": "ja",
+    "legal_safe_status": "Automatisch erkannte Barrierefreiheitsrisiken. Keine endgültige BFSG-Verstoßbehauptung ohne manuelle Prüfung."
+  },
+  "note": "Automatischer Risikoscan. Keine abschließende BFSG- oder WCAG-Konformitätsaussage ohne manuelle Prüfung."
+}

@@ -1,0 +1,562 @@
+{
+  "scanned_at_utc": "2026-05-07T20:38:33+00:00",
+  "base_url": "https://stores.mega.de/mega-eg-lubeck-6d05f0879fb1",
+  "domain": "stores.mega.de",
+  "input_row": {
+    "found_at_utc": "2026-05-07T20:24:42+00:00",
+    "url": "https://stores.mega.de/mega-eg-lubeck-6d05f0879fb1",
+    "domain": "stores.mega.de",
+    "normalized_domain": "stores.mega.de",
+    "business_name": "MEGA eG Lübeck",
+    "keyword": "Online-Shop",
+    "plz": "23558",
+    "city": "Lübeck",
+    "place_id": "ChIJ3Q_rRpkOskcRq3KMUV42BbU",
+    "google_types": "establishment,home_goods_store,point_of_interest,store",
+    "google_rating": "3.5",
+    "google_user_ratings_total": "54",
+    "formatted_address": "Kruppstraße 1, 23560 Lübeck, Deutschland",
+    "source": "google_places_textsearch_seed_v5",
+    "Location_Confidence": "1.0",
+    "Location_Reason": "address_plz_match",
+    "Location_Rejected_Reason": "",
+    "Transaction_Checked_At_UTC": "2026-05-07T20:27:20+00:00",
+    "Transaction_Score": "57",
+    "Transaction_Reasons": "Checkout_Found+35 | Login_Found+12 | lead-keyword+10",
+    "Transaction_Type": "online_shop",
+    "Consumer_Contract_Likelihood": "mittel",
+    "Transaction_Evidence_URLs": "https://stores.mega.de/mega-eg-lubeck-6d05f0879fb1",
+    "Transaction_Evidence_JSON": "test_outputs_luebeck/transaction_evidence/stores.mega.de/transaction_evidence.json",
+    "Pages_Transaction_Checked": "1",
+    "Cart_Found": "no",
+    "Checkout_Found": "yes",
+    "Booking_Found": "no",
+    "Appointment_Found": "no",
+    "Ticket_Found": "no",
+    "Subscription_Found": "no",
+    "Login_Found": "yes",
+    "Payment_Words_Found": "no",
+    "Product_Price_Found": "no",
+    "Contract_Form_Found": "no",
+    "Cold_Email_Allowed": "no",
+    "Postal_Letter_Recommended": "yes_after_manual_review",
+    "DSGVO_Data_Minimization": "public business website data only; no accounts, no form submission, no private data intentionally collected",
+    "DSGVO_Source": "public website / Google Places lead",
+    "DSGVO_Delete_After": "2026-11-03",
+    "Transaction_Rejected_Reason": "",
+    "Healthcare_Lead": "no",
+    "Healthcare_Digital_Service": "yes",
+    "Online_Appointment_Found": "no",
+    "Video_Consultation_Found": "no",
+    "Online_Prescription_Found": "no",
+    "Patient_Portal_Found": "yes",
+    "Microenterprise_Risk": "medium",
+    "Microenterprise_Reasons": "Größe/Umsatz nicht sicher öffentlich belegbar",
+    "BFSG_Applicability_Status": "B",
+    "BFSG_Exclusion_Risk": "medium",
+    "BFSG_Exclusion_Reasons": "mögliche BFSG-relevante Transaktionsstrecke",
+    "Recommended_Action": "audit_manual_check",
+    "Applicability_Rejected_Reason": ""
+  },
+  "scope": {
+    "scope_score": 100,
+    "scope_label": "wahrscheinlich BFSG-relevant",
+    "scope_reasons": [
+      "BFSG-nahe Branche",
+      "Kauf-/Bestellfunktion",
+      "Login/Kundenkonto",
+      "Online-Shop Hinweis",
+      "Shop/Checkout/Zahlung"
+    ]
+  },
+  "company": {
+    "Company_Name": "Impressum shop.mega.de ist der Online-Vertriebskanal der MEGA eG. Verantwortlicher gemäß  5 Digitale Dienste Gesetz DD",
+    "Entscheider": "Volker König Vorsitzender Dr. Peter Zillmer AR-Vorsitzender Hansjörg Orth Gen. Reg. Nr. Sit",
+    "Email": "Nicht gefunden",
+    "Telefon": "040 54004-0",
+    "HRB_HRA": "Nicht gefunden",
+    "Impressum_URL": "https://shop.mega.de/store/mega/de/EUR/impressum",
+    "Adresse_Text": "22547 Hamburg",
+    "Mitarbeiter_Hinweis": "Unbekannt",
+    "Extraction_Error": ""
+  },
+  "pages": [
+    {
+      "url": "https://stores.mega.de/mega-eg-lubeck-6d05f0879fb1",
+      "viewport": "desktop",
+      "loaded": true,
+      "title": "MEGA eG Lübeck",
+      "score": 0,
+      "violations_count": 7,
+      "incomplete_count": 0,
+      "critical_count": 1,
+      "serious_count": 2,
+      "moderate_count": 4,
+      "minor_count": 0,
+      "top_issues": "region(moderate,57), color-contrast(serious,3), heading-order(moderate,3), image-alt(critical,1), landmark-one-main(moderate,1), link-name(serious,1)",
+      "overlays": [],
+      "keyboard": {
+        "tabbed_elements": [
+          {
+            "cls": "navbar-brand",
+            "href": "https://www.mega.de/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 57,
+              "height": 44,
+              "left": 157.5,
+              "right": 332.328125,
+              "top": 13,
+              "width": 174.828125,
+              "x": 157.5,
+              "y": 13
+            },
+            "tag": "A",
+            "text": ""
+          },
+          {
+            "cls": "nav-item nav-link lp-param lp-param-99Y0bhhqvv-link1Text lp-param-99Y0bhhqvv-link1Url",
+            "href": "https://shop.mega.de/store/mega/de/EUR/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 55,
+              "height": 40,
+              "left": 348.328125,
+              "right": 444.390625,
+              "top": 15,
+              "width": 96.0625,
+              "x": 348.328125,
+              "y": 15
+            },
+            "tag": "A",
+            "text": "Onlineshop"
+          },
+          {
+            "cls": "nav-item nav-link lp-param lp-param-99Y0bhhqvv-link2Text lp-param-99Y0bhhqvv-link2Url",
+            "href": "https://www.mega.de/mega-gruppe/ueber-die-mega-gruppe/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 55,
+              "height": 40,
+              "left": 444.390625,
+              "right": 622.859375,
+              "top": 15,
+              "width": 178.46875,
+              "x": 444.390625,
+              "y": 15
+            },
+            "tag": "A",
+            "text": "Über die MEGA Gruppe"
+          },
+          {
+            "cls": "nav-item nav-link lp-param lp-param-99Y0bhhqvv-link3Text lp-param-99Y0bhhqvv-link3Url",
+            "href": "https://www.mega.de/karriere/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 55,
+              "height": 40,
+              "left": 622.859375,
+              "right": 747.578125,
+              "top": 15,
+              "width": 124.71875,
+              "x": 622.859375,
+              "y": 15
+            },
+            "tag": "A",
+            "text": "Jobs & Karriere"
+          },
+          {
+            "cls": "btn btn-primary text-color-inverse-primary lp-param lp-param-uJbMcX55SR-announcementText lp-param-uJbMcX55SR-announcementUrl",
+            "href": "https://shop.mega.de/store/mega/de/EUR/MEGA/c/000?q=%3Arelevance%3AMEMA0200%3AMEMA0200_MWMEMA0200-035#",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 108,
+              "height": 38,
+              "left": 0,
+              "right": 1425,
+              "top": 70,
+              "width": 1425,
+              "x": 0,
+              "y": 70
+            },
+            "tag": "A",
+            "text": "+ + + Die Angebots-Saison geht weiter: Preishammer, MEGA Deals und mehr - sprech"
+          },
+          {
+            "cls": "btn btn-primary directions-cta btn-lg lp-param lp-param-routableCoordinate lp-param-getDirectionsText",
+            "href": "https://maps.google.com/?q=53.8427317,10.6654306",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 485.984375,
+              "height": 48,
+              "left": 157.5,
+              "right": 341.484375,
+              "top": 437.984375,
+              "width": 183.984375,
+              "x": 157.5,
+              "y": 437.984375
+            },
+            "tag": "A",
+            "text": "Route berechnen"
+          },
+          {
+            "cls": "btn btn-primary btn-lg secondary-cta lp-param lp-param-ctaURL lp-param-ctaText",
+            "href": "mailto:luebeck@mega.de",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 485.984375,
+              "height": 48,
+              "left": 345.484375,
+              "right": 504.234375,
+              "top": 437.984375,
+              "width": 158.75,
+              "x": 345.484375,
+              "y": 437.984375
+            },
+            "tag": "A",
+            "text": "E-Mail senden"
+          },
+          {
+            "cls": "btn btn-primary btn-lg lp-param lp-param-9JEg-f8L_R-ctaText lp-param-9JEg-f8L_R-ctaURL cta",
+            "href": "mailto:luebeck@mega.de",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 946.984375,
+              "height": 48,
+              "left": 727.5,
+              "right": 925.046875,
+              "top": 898.984375,
+              "width": 197.546875,
+              "x": 727.5,
+              "y": 898.984375
+            },
+            "tag": "A",
+            "text": "E-Mail an Standort"
+          },
+          {
+            "cls": "",
+            "href": "https://shop.mega.de/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 518.765625,
+              "height": 24,
+              "left": 161.5,
+              "right": 419.984375,
+              "top": 494.765625,
+              "width": 258.484375,
+              "x": 161.5,
+              "y": 494.765625
+            },
+            "tag": "A",
+            "text": "Sparen im MEGA Onlineshop"
+          },
+          {
+            "cls": "",
+            "href": "https://shop.mega.de/",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 518.765625,
+              "height": 24,
+              "left": 541.5,
+              "right": 856.328125,
+              "top": 494.765625,
+              "width": 314.828125,
+              "x": 541.5,
+              "y": 494.765625
+            },
+            "tag": "A",
+            "text": "MEGA Deal - jeden Donnerstag neu"
+          },
+          {
+            "cls": "",
+            "href": "https://www.mega.de/handwerkerschutz",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 518.765625,
+              "height": 24,
+              "left": 921.5,
+              "right": 1199.84375,
+              "top": 494.765625,
+              "width": 278.34375,
+              "x": 921.5,
+              "y": 494.765625
+            },
+            "tag": "A",
+            "text": "Neu: MEGA HandwerkerSchutz"
+          },
+          {
+            "cls": "",
+            "href": "https://shop.mega.de/store/mega/de/EUR",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 920.15625,
+              "height": 24,
+              "left": 161.5,
+              "right": 355.0625,
+              "top": 896.15625,
+              "width": 193.5625,
+              "x": 161.5,
+              "y": 896.15625
+            },
+            "tag": "A",
+            "text": "Persönliche Beratung"
+          }
+        ],
+        "focus_count": 12,
+        "keyboard_warning": ""
+      },
+      "screenshot_path": "evidence/stores.mega.de/68b98b0023_desktop.png",
+      "violations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 3,
+          "nodes": [
+            {
+              "target": [
+                ".lp-param-99Y0bhhqvv-link1Text"
+              ],
+              "html": "<a class=\"nav-item nav-link lp-param lp-param-99Y0bhhqvv-link1Text lp-param-99Y0bhhqvv-link1Url\" href=\"https://shop.mega.de/store/mega/de/EUR/\" data-pages-analytics=\"clicktowebsite\">Onlineshop </a>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".lp-param-99Y0bhhqvv-link2Text"
+              ],
+              "html": "<a class=\"nav-item nav-link lp-param lp-param-99Y0bhhqvv-link2Text lp-param-99Y0bhhqvv-link2Url\" href=\"https://www.mega.de/mega-gruppe/ueber-die-mega-gruppe/\" data-pages-analytics=\"clicktowebsite\">Über die MEGA Gruppe</a>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".lp-param-99Y0bhhqvv-link3Text"
+              ],
+              "html": "<a class=\"nav-item nav-link lp-param lp-param-99Y0bhhqvv-link3Text lp-param-99Y0bhhqvv-link3Url\" href=\"https://www.mega.de/karriere/\" data-pages-analytics=\"clicktowebsite\">Jobs &amp; Karriere</a>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "description": "Ensure the order of headings is semantically correct",
+          "help": "Heading levels should only increase by one",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=axeAPI",
+          "tags": [
+            "cat.semantics",
+            "best-practice"
+          ],
+          "node_count": 3,
+          "nodes": [
+            {
+              "target": [
+                ".lp-param-u91eSJGGR_-images > .col-12.card-col.col-md-4:nth-child(1) > .card > .card-content > .card-body > h5"
+              ],
+              "html": "<h5 class=\"card-title\"><a href=\"https://shop.mega.de\" data-pages-analytics=\"calltoactionclick\">Sparen im MEGA Onlineshop</a></h5>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".lp-param-Huz1OTKd_R-images > .col-12.card-col.col-md-4:nth-child(1) > .card > .card-content > .card-body > h5"
+              ],
+              "html": "<h5 class=\"card-title\"><a href=\"https://shop.mega.de/store/mega/de/EUR\" data-pages-analytics=\"calltoactionclick\">Persönliche Beratung</a></h5>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".lp-param-9JKepnq6v_-images > .col-12.card-col.col-md-4:nth-child(1) > .card > .card-content > .card-body > h5"
+              ],
+              "html": "<h5 class=\"card-title\"><a href=\"https://shop.mega.de/store/mega/de/EUR/MEGA/Farben/c/100\" data-pages-analytics=\"calltoactionclick\">Farben</a></h5>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "image-alt",
+          "impact": "critical",
+          "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+          "help": "Images must have alternative text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/image-alt?application=axeAPI",
+          "tags": [
+            "cat.text-alternatives",
+            "wcag2a",
+            "wcag111",
+            "section508",
+            "section508.22.a",
+            "TTv5",
+            "TT7.a",
+            "TT7.b",
+            "EN-301-549",
+            "EN-9.1.1.1",
+            "ACT"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                ".logo-image"
+              ],
+              "html": "<img class=\"logo-image lp-param lp-param-99Y0bhhqvv-logo lp-param-99Y0bhhqvv-logoUrl navbar-logo-99Y0bhhqvv\" loading=\"lazy\" srcset=\"//dynl.mktgcdn.com/p/nkf4msRfbb2dwUhCwk47k-IA--nv61CsKpAdXA_l6jk/328x185.png 328w,//dynl.mktgcdn.com/p/nkf4msRfbb2dwUhCwk47k-IA--nv61CsKpAdXA_l6jk/297x167.png 297w,//dynl.mktgcdn.com/p/nkf4msRfbb2dwUhCwk47k-IA--nv61CsKpAdXA_l6jk/224x126.png 224w,//dynl.mktgcdn.com/p/nkf4msRfbb2dwUhCwk47k-IA--nv61CsKpAdXA_l6jk/656x370.png 656w,//dynl.mktgcdn.com/p/nkf4msRfbb2dwUhCwk4",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "landmark-one-main",
+          "impact": "moderate",
+          "description": "Ensure the document has a main landmark",
+          "help": "Document should have one main landmark",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/landmark-one-main?application=axeAPI",
+          "tags": [
+            "cat.semantics",
+            "best-practice"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "html": "<html lang=\"de\" class=\"theme-html\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "description": "Ensure links have discernible text",
+          "help": "Links must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-name?application=axeAPI",
+          "tags": [
+            "cat.name-role-value",
+            "wcag2a",
+            "wcag244",
+            "wcag412",
+            "section508",
+            "section508.22.a",
+            "TTv5",
+            "TT6.a",
+            "EN-301-549",
+            "EN-9.2.4.4",
+            "EN-9.4.1.2",
+            "ACT"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                ".navbar-brand"
+              ],
+              "html": "<a class=\"navbar-brand\" href=\"https://www.mega.de\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "page-has-heading-one",
+          "impact": "moderate",
+          "description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+          "help": "Page should contain a level-one heading",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/page-has-heading-one?application=axeAPI",
+          "tags": [
+            "cat.semantics",
+            "best-practice"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "html"
+              ],
+              "html": "<html lang=\"de\" class=\"theme-html\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "description": "Ensure all page content is contained by landmarks",
+          "help": "All page content should be contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+          "tags": [
+            "cat.keyboard",
+            "best-practice"
+          ],
+          "node_count": 57,
+          "nodes": [
+            {
+              "target": [
+                ".module-announcement_bar_2"
+              ],
+              "html": "<div class=\"module-wrapper module-uJbMcX55SR module-announcement_bar_2\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".lp-param-headline.text-center"
+              ],
+              "html": "<h2 class=\"text-center lp-param lp-param-headline\">MEGA eG Lübeck</h2>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#js-opentoday-H9O4FohKIR"
+              ],
+              "html": "<h3 class=\"primary-open-today text-center h4\" style=\"\" id=\"js-opentoday-H9O4FohKIR\">Geschlossen · wieder geöffnet ab Fr., 06:30</h3>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".lp-param-infoColumnHeader"
+              ],
+              "html": "<h3 class=\"lp-param lp-param-infoColumnHeader info-header h4\">Info</h3>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".Location-Name"
+              ],
+              "html": "<div class=\"Location-Name lp-param lp-param-locationName\">MEGA eG Lübeck</div>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "incomplete": [],
+      "axe_error": ""
+    }
+  ],
+  "risk": {
+    "audit_score": 0,
+    "risk_label": "hoch - manuelle Prüfung priorisieren",
+    "manual_review_needed": "ja",
+    "legal_safe_status": "Automatisch erkannte Barrierefreiheitsrisiken. Keine endgültige BFSG-Verstoßbehauptung ohne manuelle Prüfung."
+  },
+  "note": "Automatischer Risikoscan. Keine abschließende BFSG- oder WCAG-Konformitätsaussage ohne manuelle Prüfung."
+}

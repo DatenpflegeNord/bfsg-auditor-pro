@@ -1,0 +1,19 @@
+
+# Runtime audit outputs / generated data
+audit_results*.csv
+audit_results_enriched*.csv
+contextual_audit_results*.csv
+applicability_leads*.csv
+applicability_rejected*.csv
+leads_bfsg*.csv
+leads_for_audit*.csv
+leads_rejected*.csv
+lead_state*.json
+manual_review*.csv
+transaction_leads*.csv
+transaction_rejected*.csv
+transaction_unclear*.csv
+transaction_evidence/
+runs/
+test_outputs*/
+*.log

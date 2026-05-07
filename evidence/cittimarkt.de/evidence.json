@@ -1,0 +1,560 @@
+{
+  "scanned_at_utc": "2026-05-07T20:37:56+00:00",
+  "base_url": "https://cittimarkt.de/luebeck",
+  "domain": "cittimarkt.de",
+  "input_row": {
+    "found_at_utc": "2026-05-07T20:24:40+00:00",
+    "url": "https://cittimarkt.de/luebeck",
+    "domain": "cittimarkt.de",
+    "normalized_domain": "cittimarkt.de",
+    "business_name": "CITTI Markt Lübeck",
+    "keyword": "Online-Shop",
+    "plz": "23554",
+    "city": "Lübeck",
+    "place_id": "ChIJE5J-CpQOskcRYZzxTLDE9AI",
+    "google_types": "establishment,food,grocery_or_supermarket,point_of_interest,store,supermarket",
+    "google_rating": "4.5",
+    "google_user_ratings_total": "4345",
+    "formatted_address": "Herrenholz 14, 23556 Lübeck, Deutschland",
+    "source": "google_places_textsearch_seed_v5",
+    "Location_Confidence": "1.0",
+    "Location_Reason": "address_plz_match",
+    "Location_Rejected_Reason": "",
+    "Transaction_Checked_At_UTC": "2026-05-07T20:27:15+00:00",
+    "Transaction_Score": "80",
+    "Transaction_Reasons": "Checkout_Found+35 | Ticket_Found+35 | lead-keyword+10",
+    "Transaction_Type": "ticket_booking",
+    "Consumer_Contract_Likelihood": "hoch",
+    "Transaction_Evidence_URLs": "https://cittimarkt.de/luebeck",
+    "Transaction_Evidence_JSON": "test_outputs_luebeck/transaction_evidence/cittimarkt.de/transaction_evidence.json",
+    "Pages_Transaction_Checked": "1",
+    "Cart_Found": "no",
+    "Checkout_Found": "yes",
+    "Booking_Found": "no",
+    "Appointment_Found": "no",
+    "Ticket_Found": "yes",
+    "Subscription_Found": "no",
+    "Login_Found": "no",
+    "Payment_Words_Found": "no",
+    "Product_Price_Found": "no",
+    "Contract_Form_Found": "no",
+    "Cold_Email_Allowed": "no",
+    "Postal_Letter_Recommended": "yes_after_manual_review",
+    "DSGVO_Data_Minimization": "public business website data only; no accounts, no form submission, no private data intentionally collected",
+    "DSGVO_Source": "public website / Google Places lead",
+    "DSGVO_Delete_After": "2026-11-03",
+    "Transaction_Rejected_Reason": "",
+    "Healthcare_Lead": "no",
+    "Healthcare_Digital_Service": "no",
+    "Online_Appointment_Found": "no",
+    "Video_Consultation_Found": "no",
+    "Online_Prescription_Found": "no",
+    "Patient_Portal_Found": "no",
+    "Microenterprise_Risk": "low",
+    "Microenterprise_Reasons": "Kette/sehr viele Bewertungen",
+    "BFSG_Applicability_Status": "A",
+    "BFSG_Exclusion_Risk": "low",
+    "BFSG_Exclusion_Reasons": "starke Transaktionsstrecke",
+    "Recommended_Action": "audit_prioritize",
+    "Applicability_Rejected_Reason": ""
+  },
+  "scope": {
+    "scope_score": 100,
+    "scope_label": "wahrscheinlich BFSG-relevant",
+    "scope_reasons": [
+      "BFSG-nahe Branche",
+      "Online-Shop Hinweis",
+      "Shop/Checkout/Zahlung",
+      "Ticket/Reise/Hotel-Buchung"
+    ]
+  },
+  "company": {
+    "Company_Name": " CITTI Markt Angebote Märkte Sortiment CITTI CARD Profi Jobs Impressum Herausgeber CITTI Märkte GmbH & Co. KG Mühlendam",
+    "Entscheider": "Gerhard Lütje Dirk Lütje Christoph Langness Dr. Frank Scholz Umsatzsteuer-Identifikationsnummer g",
+    "Email": "info@citti.de",
+    "Telefon": "+49 431 68 93 0",
+    "HRB_HRA": "HRA 4602",
+    "Impressum_URL": "https://cittimarkt.de/impressum",
+    "Adresse_Text": "24113 Kiel",
+    "Mitarbeiter_Hinweis": "Unbekannt",
+    "Extraction_Error": ""
+  },
+  "pages": [
+    {
+      "url": "https://cittimarkt.de/luebeck",
+      "viewport": "desktop",
+      "loaded": true,
+      "title": "Lübeck | CITTI Markt",
+      "score": 0,
+      "violations_count": 5,
+      "incomplete_count": 1,
+      "critical_count": 0,
+      "serious_count": 2,
+      "moderate_count": 2,
+      "minor_count": 1,
+      "top_issues": "region(moderate,25), link-name(serious,6), heading-order(moderate,3), aria-dialog-name(serious,1), image-redundant-alt(minor,1)",
+      "overlays": [],
+      "keyboard": {
+        "tabbed_elements": [
+          {
+            "cls": "uc-btn-new  uc-btn-accept",
+            "href": "",
+            "id": "uc-btn-accept-banner",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 578,
+              "height": 42,
+              "left": 497.5,
+              "right": 937.5,
+              "top": 536,
+              "width": 440,
+              "x": 497.5,
+              "y": 536
+            },
+            "tag": "BUTTON",
+            "text": "OK"
+          },
+          {
+            "cls": "uc-btn-new  uc-btn-more",
+            "href": "",
+            "id": "uc-btn-more-info-banner",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 625,
+              "height": 42,
+              "left": 497.5,
+              "right": 937.5,
+              "top": 583,
+              "width": 440,
+              "x": 497.5,
+              "y": 583
+            },
+            "tag": "BUTTON",
+            "text": "Cookie-Einstellungen"
+          },
+          {
+            "cls": "uc-banner-imprinturl",
+            "href": "https://cittimarkt.de/impressum",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 657,
+              "height": 15,
+              "left": 635.046875,
+              "right": 684.5,
+              "top": 642,
+              "width": 49.453125,
+              "x": 635.046875,
+              "y": 642
+            },
+            "tag": "A",
+            "text": "Impressum"
+          },
+          {
+            "cls": "uc-banner-privacyurl",
+            "href": "https://cittimarkt.de/datenschutz",
+            "id": "",
+            "outline": "none 0px",
+            "rect": {
+              "bottom": 657,
+              "height": 15,
+              "left": 692.671875,
+              "right": 789.953125,
+              "top": 642,
+              "width": 97.28125,
+              "x": 692.671875,
+              "y": 642
+            },
+            "tag": "A",
+            "text": "Datenschutzerklärung"
+          },
+          {
+            "cls": "page-b31f6e68-bce0-11e9-90a0-005056b67148 page-branch",
+            "href": "",
+            "id": "",
+            "outline": "none 3px",
+            "rect": {
+              "bottom": 7227.09375,
+              "height": 7227.09375,
+              "left": 0,
+              "right": 1440,
+              "top": 0,
+              "width": 1440,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "BODY",
+            "text": "ANGEBOTE\nMÄRKTE\nSORTIMENT\nCITTI CARD\nPROFI\nJOBS\n \n \n\nMontag bis Samstag 8.00 - 2"
+          },
+          {
+            "cls": " ",
+            "href": "https://cittimarkt.de/angebote",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 102.4375,
+              "height": 39.4375,
+              "left": 174,
+              "right": 252.578125,
+              "top": 63,
+              "width": 78.578125,
+              "x": 174,
+              "y": 63
+            },
+            "tag": "A",
+            "text": "ANGEBOTE"
+          },
+          {
+            "cls": "",
+            "href": "https://cittimarkt.de/#maerkte",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 102.4375,
+              "height": 39.4375,
+              "left": 261.578125,
+              "right": 326.796875,
+              "top": 63,
+              "width": 65.21875,
+              "x": 261.578125,
+              "y": 63
+            },
+            "tag": "A",
+            "text": "MÄRKTE"
+          },
+          {
+            "cls": " ",
+            "href": "https://cittimarkt.de/sortiment",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 102.4375,
+              "height": 39.4375,
+              "left": 335.796875,
+              "right": 419.484375,
+              "top": 63,
+              "width": 83.6875,
+              "x": 335.796875,
+              "y": 63
+            },
+            "tag": "A",
+            "text": "SORTIMENT"
+          },
+          {
+            "cls": " ",
+            "href": "https://cittimarkt.de/citti-card",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 102.4375,
+              "height": 39.4375,
+              "left": 428.484375,
+              "right": 507.546875,
+              "top": 63,
+              "width": 79.0625,
+              "x": 428.484375,
+              "y": 63
+            },
+            "tag": "A",
+            "text": "CITTI CARD"
+          },
+          {
+            "cls": " ",
+            "href": "https://cittimarkt.de/profi",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 102.4375,
+              "height": 39.4375,
+              "left": 516.546875,
+              "right": 569.890625,
+              "top": 63,
+              "width": 53.34375,
+              "x": 516.546875,
+              "y": 63
+            },
+            "tag": "A",
+            "text": "PROFI"
+          },
+          {
+            "cls": " ",
+            "href": "https://cittimarkt.de/frischer-job",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 102.4375,
+              "height": 39.4375,
+              "left": 587.890625,
+              "right": 636.9375,
+              "top": 63,
+              "width": 49.046875,
+              "x": 587.890625,
+              "y": 63
+            },
+            "tag": "A",
+            "text": "JOBS"
+          },
+          {
+            "cls": "",
+            "href": "https://cittimarkt.de/luebeck#",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 102.4375,
+              "height": 39.4375,
+              "left": 645.9375,
+              "right": 681.125,
+              "top": 63,
+              "width": 35.1875,
+              "x": 645.9375,
+              "y": 63
+            },
+            "tag": "A",
+            "text": "Suche"
+          }
+        ],
+        "focus_count": 12,
+        "keyboard_warning": ""
+      },
+      "screenshot_path": "evidence/cittimarkt.de/a9e503cd67_desktop.png",
+      "violations": [
+        {
+          "id": "aria-dialog-name",
+          "impact": "serious",
+          "description": "Ensure every ARIA dialog and alertdialog node has an accessible name",
+          "help": "ARIA dialog and alertdialog nodes should have an accessible name",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-dialog-name?application=axeAPI",
+          "tags": [
+            "cat.aria",
+            "best-practice"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "#uc-banner-centered"
+              ],
+              "html": "<div id=\"uc-banner-centered\" role=\"dialog\" aria-describedby=\"uc-banner-text\" class=\"uc-border-radius-small uc-box-shadow uc-banner-\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "description": "Ensure the order of headings is semantically correct",
+          "help": "Heading levels should only increase by one",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/heading-order?application=axeAPI",
+          "tags": [
+            "cat.semantics",
+            "best-practice"
+          ],
+          "node_count": 3,
+          "nodes": [
+            {
+              "target": [
+                "a[href$=\"ticket\"] > .branch-news__title[itemprop=\"name\"]"
+              ],
+              "html": "<h4 class=\" branch-news__title\" itemprop=\"name\">Gewinnspiel F1®</h4>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-xl-4.col-sm-6.col-12:nth-child(1) > .iconbox > .iconbox__content.text-center > .iconbox__title"
+              ],
+              "html": "<h4 class=\"iconbox__title\">\n                                    Bis zu 200,- € Bargeld an der Kasse abheben\n                            </h4>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-xl-3.col-sm-6.col-12:nth-child(1) > .iconbox > .iconbox__content.text-center > .iconbox__title"
+              ],
+              "html": "<h4 class=\"iconbox__title\">\n                                    GOOGLE-/APPLE-PAY\n                            </h4>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "image-redundant-alt",
+          "impact": "minor",
+          "description": "Ensure image alternative is not repeated as text",
+          "help": "Alternative text of images should not be repeated as text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/image-redundant-alt?application=axeAPI",
+          "tags": [
+            "cat.text-alternatives",
+            "best-practice"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "img[title=\"EatHappy Sushibar\"]"
+              ],
+              "html": "<img class=\"d-block w-100 h-auto\" title=\"EatHappy&nbsp;Sushibar\" alt=\"EatHappy&nbsp;Sushibar\" src=\"/cache/0/e/a/f/9/0eaf97c984af28641647cfebbf26e5bd98144f86.jpg\" srcset=\"\n            /cache/d/b/8/6/b/db86b594d56b8a3842c5dc853cf171fe7c592aa6.jpg 4560w\n                                 \" width=\"2280\" height=\"1084\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "link-name",
+          "impact": "serious",
+          "description": "Ensure links have discernible text",
+          "help": "Links must have discernible text",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/link-name?application=axeAPI",
+          "tags": [
+            "cat.name-role-value",
+            "wcag2a",
+            "wcag244",
+            "wcag412",
+            "section508",
+            "section508.22.a",
+            "TTv5",
+            "TT6.a",
+            "EN-301-549",
+            "EN-9.2.4.4",
+            "EN-9.4.1.2",
+            "ACT"
+          ],
+          "node_count": 6,
+          "nodes": [
+            {
+              "target": [
+                ".col-md-4.col-12:nth-child(1) > .card.card-imageposition-top[href$=\"angebote\"]"
+              ],
+              "html": "<a href=\"/angebote\" class=\"card card-imageposition-top \">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-md-4.col-sm-6.col-12:nth-child(2) > .card.card-imageposition-top[href$=\"newsletter\"]"
+              ],
+              "html": "<a href=\"/newsletter\" class=\"card card-imageposition-top \" target=\"_blank\" rel=\"noopener\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".card.card-imageposition-top[href$=\"gastronomie\"]"
+              ],
+              "html": "<a href=\"/gastronomie\" class=\"card card-imageposition-top \">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".col-10.col-md-4.col-sm-6:nth-child(6) > .card.card-imageposition-top[href$=\"newsletter\"]"
+              ],
+              "html": "<a href=\"/newsletter\" class=\"card card-imageposition-top \">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".card-red"
+              ],
+              "html": "<a href=\"/citti-card\" class=\"card card-imageposition-top card-red\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "description": "Ensure all page content is contained by landmarks",
+          "help": "All page content should be contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+          "tags": [
+            "cat.keyboard",
+            "best-practice"
+          ],
+          "node_count": 25,
+          "nodes": [
+            {
+              "target": [
+                ".container-header"
+              ],
+              "html": "<div class=\"container-header branch-header container\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".teaser"
+              ],
+              "html": "<div class=\"teaser \">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "a[href$=\"ticket\"] > .branch-news__image"
+              ],
+              "html": "<div class=\" branch-news__image\">\n                                        <img src=\"/cache/e/5/5/e/9/e55e99f9b9c7eae4b4812e131bd11743a6700469.png\" alt=\"Gewinnspiel F1®\" class=\"img-fluid\" itemprop=\"image\">\n                    </div>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "a[href$=\"ticket\"] > .branch-news__title[itemprop=\"name\"]"
+              ],
+              "html": "<h4 class=\" branch-news__title\" itemprop=\"name\">Gewinnspiel F1®</h4>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "a[href$=\"ticket\"] > div[itemprop=\"articleBody\"]"
+              ],
+              "html": "<div itemprop=\"articleBody\">Gewinnen Sie mit KitKat® ein F1® Grand PrixTM Ticket für das Rennen in Spielberg/AT im Wert von 680 €.</div>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 3,
+          "nodes": [
+            {
+              "target": [
+                ".caption-body > p"
+              ],
+              "html": "<p>Montag bis Samstag 8.00 - 20.00 Uhr</p>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "a[href$=\"sushi\"] > .position-relative > .carousel-caption > .text-left.pt-0.pt-sm-1 > .caption-body > h2"
+              ],
+              "html": "<h2>EatHappy&nbsp;Sushibar</h2>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#uc-full-optin-description"
+              ],
+              "html": "<span id=\"uc-full-optin-description\" tabindex=\"0\" style=\"display: inline;\">",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "axe_error": ""
+    }
+  ],
+  "risk": {
+    "audit_score": 0,
+    "risk_label": "hoch - manuelle Prüfung priorisieren",
+    "manual_review_needed": "ja",
+    "legal_safe_status": "Automatisch erkannte Barrierefreiheitsrisiken. Keine endgültige BFSG-Verstoßbehauptung ohne manuelle Prüfung."
+  },
+  "note": "Automatischer Risikoscan. Keine abschließende BFSG- oder WCAG-Konformitätsaussage ohne manuelle Prüfung."
+}

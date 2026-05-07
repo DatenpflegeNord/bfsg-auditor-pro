@@ -1,0 +1,498 @@
+{
+  "scanned_at_utc": "2026-05-07T20:38:14+00:00",
+  "base_url": "https://www.ep.de/electronicpoint",
+  "domain": "ep.de",
+  "input_row": {
+    "found_at_utc": "2026-05-07T20:24:37+00:00",
+    "url": "https://www.ep.de/electronicpoint",
+    "domain": "ep.de",
+    "normalized_domain": "ep.de",
+    "business_name": "EP:ElectronicPoint",
+    "keyword": "Online-Shop",
+    "plz": "23539",
+    "city": "Lübeck",
+    "place_id": "ChIJp99SyX0JskcRdnQ7ed6fXZc",
+    "google_types": "electronics_store,establishment,home_goods_store,point_of_interest,store",
+    "google_rating": "4.5",
+    "google_user_ratings_total": "101",
+    "formatted_address": "Kantstraße 15-17, 23566 Lübeck, Deutschland",
+    "source": "google_places_textsearch_seed_v5",
+    "Location_Confidence": "1.0",
+    "Location_Reason": "address_plz_match",
+    "Location_Rejected_Reason": "",
+    "Transaction_Checked_At_UTC": "2026-05-07T20:27:08+00:00",
+    "Transaction_Score": "67",
+    "Transaction_Reasons": "Cart_Found+25 | Payment_Words_Found+20 | Login_Found+12 | lead-keyword+10",
+    "Transaction_Type": "online_shop",
+    "Consumer_Contract_Likelihood": "mittel",
+    "Transaction_Evidence_URLs": "https://www.ep.de/electronicpoint | https://www.ep.de/electronicpoint/cart",
+    "Transaction_Evidence_JSON": "test_outputs_luebeck/transaction_evidence/ep.de/transaction_evidence.json",
+    "Pages_Transaction_Checked": "2",
+    "Cart_Found": "yes",
+    "Checkout_Found": "no",
+    "Booking_Found": "no",
+    "Appointment_Found": "no",
+    "Ticket_Found": "no",
+    "Subscription_Found": "no",
+    "Login_Found": "yes",
+    "Payment_Words_Found": "yes",
+    "Product_Price_Found": "no",
+    "Contract_Form_Found": "no",
+    "Cold_Email_Allowed": "no",
+    "Postal_Letter_Recommended": "yes_after_manual_review",
+    "DSGVO_Data_Minimization": "public business website data only; no accounts, no form submission, no private data intentionally collected",
+    "DSGVO_Source": "public website / Google Places lead",
+    "DSGVO_Delete_After": "2026-11-03",
+    "Transaction_Rejected_Reason": "",
+    "Healthcare_Lead": "no",
+    "Healthcare_Digital_Service": "yes",
+    "Online_Appointment_Found": "no",
+    "Video_Consultation_Found": "no",
+    "Online_Prescription_Found": "no",
+    "Patient_Portal_Found": "yes",
+    "Microenterprise_Risk": "medium",
+    "Microenterprise_Reasons": "Größe/Umsatz nicht sicher öffentlich belegbar",
+    "BFSG_Applicability_Status": "B",
+    "BFSG_Exclusion_Risk": "medium",
+    "BFSG_Exclusion_Reasons": "mögliche BFSG-relevante Transaktionsstrecke",
+    "Recommended_Action": "audit_manual_check",
+    "Applicability_Rejected_Reason": ""
+  },
+  "scope": {
+    "scope_score": 100,
+    "scope_label": "wahrscheinlich BFSG-relevant",
+    "scope_reasons": [
+      "BFSG-nahe Branche",
+      "Kauf-/Bestellfunktion",
+      "Login/Kundenkonto",
+      "Online-Shop Hinweis",
+      "Shop/Checkout/Zahlung"
+    ]
+  },
+  "company": {
+    "Company_Name": " EP Cookie-Einstellungen Wir benutzen Cookies, die Ihnen die Möglichkeit eines besseren Nutzererlebnisses bieten. Dadu",
+    "Entscheider": "Carsten Bahr Eingetragen im Handelsregister des Amtsgerichts Lübeck im",
+    "Email": "electronicpoint@online.de",
+    "Telefon": "+49 (451) 64695",
+    "HRB_HRA": "HRB 9652",
+    "Impressum_URL": "https://www.ep.de/impressum",
+    "Adresse_Text": "23566 Lübeck Karriere Anmelden",
+    "Mitarbeiter_Hinweis": "Unbekannt",
+    "Extraction_Error": ""
+  },
+  "pages": [
+    {
+      "url": "https://www.ep.de/electronicpoint",
+      "viewport": "desktop",
+      "loaded": true,
+      "title": "EP:ElectronicPoint - in Lübeck | ElectronicPartner",
+      "score": 60,
+      "violations_count": 2,
+      "incomplete_count": 2,
+      "critical_count": 0,
+      "serious_count": 0,
+      "moderate_count": 1,
+      "minor_count": 1,
+      "top_issues": "region(moderate,14), aria-allowed-role(minor,10)",
+      "overlays": [],
+      "keyboard": {
+        "tabbed_elements": [
+          {
+            "cls": "cookies-overlay-dialog__section-cookies-link",
+            "href": "https://www.ep.de/electronicpoint#cookie-overlay",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 391.109375,
+              "height": 15,
+              "left": 425,
+              "right": 539.9375,
+              "top": 376.109375,
+              "width": 114.9375,
+              "x": 425,
+              "y": 376.109375
+            },
+            "tag": "A",
+            "text": "Details einblenden"
+          },
+          {
+            "cls": "checkbox-item",
+            "href": "",
+            "id": "ig8knhetbq",
+            "outline": "solid 2px",
+            "rect": {
+              "bottom": 423.109375,
+              "height": 14,
+              "left": 385,
+              "right": 399,
+              "top": 409.109375,
+              "width": 14,
+              "x": 385,
+              "y": 409.109375
+            },
+            "tag": "INPUT",
+            "text": ""
+          },
+          {
+            "cls": "cookies-overlay-dialog__section-cookies-link",
+            "href": "https://www.ep.de/electronicpoint#cookie-overlay",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 502.484375,
+              "height": 15,
+              "left": 425,
+              "right": 539.9375,
+              "top": 487.484375,
+              "width": 114.9375,
+              "x": 425,
+              "y": 487.484375
+            },
+            "tag": "A",
+            "text": "Details einblenden"
+          },
+          {
+            "cls": "checkbox-item",
+            "href": "",
+            "id": "iowkj4f3bp",
+            "outline": "solid 2px",
+            "rect": {
+              "bottom": 534.484375,
+              "height": 14,
+              "left": 385,
+              "right": 399,
+              "top": 520.484375,
+              "width": 14,
+              "x": 385,
+              "y": 520.484375
+            },
+            "tag": "INPUT",
+            "text": ""
+          },
+          {
+            "cls": "cookies-overlay-dialog__section-cookies-link",
+            "href": "https://www.ep.de/electronicpoint#cookie-overlay",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 594.265625,
+              "height": 15,
+              "left": 425,
+              "right": 539.9375,
+              "top": 579.265625,
+              "width": 114.9375,
+              "x": 425,
+              "y": 579.265625
+            },
+            "tag": "A",
+            "text": "Details einblenden"
+          },
+          {
+            "cls": "checkbox-item",
+            "href": "",
+            "id": "imq1b0wfb7",
+            "outline": "solid 2px",
+            "rect": {
+              "bottom": 626.265625,
+              "height": 14,
+              "left": 385,
+              "right": 399,
+              "top": 612.265625,
+              "width": 14,
+              "x": 385,
+              "y": 612.265625
+            },
+            "tag": "INPUT",
+            "text": ""
+          },
+          {
+            "cls": "cookies-overlay-dialog__section-cookies-link",
+            "href": "https://www.ep.de/electronicpoint#cookie-overlay",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 705.640625,
+              "height": 15,
+              "left": 425,
+              "right": 539.9375,
+              "top": 690.640625,
+              "width": 114.9375,
+              "x": 425,
+              "y": 690.640625
+            },
+            "tag": "A",
+            "text": "Details einblenden"
+          },
+          {
+            "cls": "cookies-overlay-dialog__page-two-header-link",
+            "href": "https://www.ep.de/electronicpoint#",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 225.65625,
+              "height": 17.296875,
+              "left": 1070,
+              "right": 1223.296875,
+              "top": 208.359375,
+              "width": 153.296875,
+              "x": 1070,
+              "y": 208.359375
+            },
+            "tag": "A",
+            "text": "Zurück zur Übersicht"
+          },
+          {
+            "cls": "ps__thumb-y",
+            "href": "",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 201.359375,
+              "height": 0,
+              "left": 1047,
+              "right": 1053,
+              "top": 201.359375,
+              "width": 6,
+              "x": 1047,
+              "y": 201.359375
+            },
+            "tag": "DIV",
+            "text": ""
+          },
+          {
+            "cls": "cookies-overlay-dialog__accept-all-btn",
+            "href": "",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 772.640625,
+              "height": 37,
+              "left": 385,
+              "right": 1055,
+              "top": 735.640625,
+              "width": 670,
+              "x": 385,
+              "y": 735.640625
+            },
+            "tag": "BUTTON",
+            "text": "Alle akzeptieren"
+          },
+          {
+            "cls": "cookies-overlay-dialog__save-btn",
+            "href": "",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 814.640625,
+              "height": 37,
+              "left": 385,
+              "right": 1055,
+              "top": 777.640625,
+              "width": 670,
+              "x": 385,
+              "y": 777.640625
+            },
+            "tag": "BUTTON",
+            "text": "Auswahl speichern"
+          },
+          {
+            "cls": "cookie-overlay-dialog__footer-link in-layer-link",
+            "href": "https://www.ep.de/privacy",
+            "id": "",
+            "outline": "auto 1px",
+            "rect": {
+              "bottom": 841.640625,
+              "height": 17,
+              "left": 385,
+              "right": 467.359375,
+              "top": 824.640625,
+              "width": 82.359375,
+              "x": 385,
+              "y": 824.640625
+            },
+            "tag": "A",
+            "text": "Datenschutz"
+          }
+        ],
+        "focus_count": 12,
+        "keyboard_warning": ""
+      },
+      "screenshot_path": "evidence/ep.de/51f99570bf_desktop.png",
+      "violations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "description": "Ensure role attribute has an appropriate value for the element",
+          "help": "ARIA role should be appropriate for the element",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/aria-allowed-role?application=axeAPI",
+          "tags": [
+            "cat.aria",
+            "best-practice"
+          ],
+          "node_count": 10,
+          "nodes": [
+            {
+              "target": [
+                "article[data-et-name=\"CBNsda 5223-22\"]"
+              ],
+              "html": "<article class=\"carousel-item swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-active\" data-et-name=\"CBNsda 5223-22\" data-et-code=\"1436518\" data-et-category=\"Kühl-/Gefrier-Kombinationen\" data-et-price=\"1199.00\" aria-label=\"CBNsda 5223-22 - SmartSteel-Silver\" aria-roledescription=\"slide\" role=\"group\" style=\"width: 240px;\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "article[data-et-name=\"GQ50Q8FAAUXZG\"]"
+              ],
+              "html": "<article class=\"carousel-item swiper-slide swiper-slide-visible swiper-slide-fully-visible swiper-slide-next\" data-et-name=\"GQ50Q8FAAUXZG\" data-et-code=\"1481676\" data-et-category=\"LCD &amp; LED\" data-et-price=\"449.00\" aria-label=\"GQ50Q8FAAUXZG - Titangrau\" aria-roledescription=\"slide\" role=\"group\" style=\"width: 240px;\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "article[data-et-code=\"1467345\"]"
+              ],
+              "html": "<article class=\"carousel-item swiper-slide swiper-slide-visible swiper-slide-fully-visible\" data-et-name=\"HPI5EPV1 (OU5PE40AK+TX64IC00XB+TR1LFV)\" data-et-code=\"1467345\" data-et-category=\"Einbauherde &amp; Sets\" data-et-price=\"999.00\" aria-label=\"HPI5EPV1 (OU5PE40AK+TX64IC00XB+TR1LFV) - Schwarz\" aria-roledescription=\"slide\" role=\"group\" style=\"width: 240px;\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "article[data-et-name=\"LAVATHERM TR8TEP1\"]"
+              ],
+              "html": "<article class=\"carousel-item swiper-slide swiper-slide-visible swiper-slide-fully-visible\" data-et-name=\"LAVATHERM TR8TEP1\" data-et-code=\"1439395\" data-et-category=\"AEG_Heimspiel-Wochen\" data-et-price=\"729.00\" aria-label=\"LAVATHERM TR8TEP1 - Weiss\" aria-roledescription=\"slide\" role=\"group\" style=\"width: 240px;\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "article[data-et-name=\"OLED42C58LA\"]"
+              ],
+              "html": "<article class=\"carousel-item swiper-slide swiper-slide-visible swiper-slide-fully-visible\" data-et-name=\"OLED42C58LA\" data-et-code=\"1478130\" data-et-category=\"OLED-TV\" data-et-price=\"699.00\" aria-label=\"OLED42C58LA\" aria-roledescription=\"slide\" role=\"group\" style=\"width: 240px;\">",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "region",
+          "impact": "moderate",
+          "description": "Ensure all page content is contained by landmarks",
+          "help": "All page content should be contained by landmarks",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/region?application=axeAPI",
+          "tags": [
+            "cat.keyboard",
+            "best-practice"
+          ],
+          "node_count": 14,
+          "nodes": [
+            {
+              "target": [
+                ".cookies-overlay-dialog__header"
+              ],
+              "html": "<div class=\"cookies-overlay-dialog__header\"><div class=\"cookies-overlay-dialog__header-title\">Cookie-Einstellungen</div></div>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".cookies-overlay-dialog__body-description"
+              ],
+              "html": "<div class=\"cookies-overlay-dialog__body-description content\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#iq237ae2b8"
+              ],
+              "html": "<input class=\"checkbox-item\" id=\"iq237ae2b8\" type=\"checkbox\" data-groupcode=\"essential\" disabled=\"\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "label[for=\"iq237ae2b8\"]"
+              ],
+              "html": "<label class=\"control-label checkbox\" for=\"iq237ae2b8\">",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "#ig8knhetbq"
+              ],
+              "html": "<input class=\"checkbox-item\" id=\"ig8knhetbq\" type=\"checkbox\" data-groupcode=\"functional\">",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 48,
+          "nodes": [
+            {
+              "target": [
+                ".cookies-overlay-dialog__body-description > p"
+              ],
+              "html": "<p>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".cookies-overlay-dialog__section-cookies-link[data-groupcode=\"essential\"][href$=\"#cookie-overlay\"]"
+              ],
+              "html": "<a class=\"cookies-overlay-dialog__section-cookies-link\" href=\"#cookie-overlay\" data-groupcode=\"essential\">Details einblenden</a>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                "label[for=\"ig8knhetbq\"] > .cookies-overlay-dialog__checkbox-name"
+              ],
+              "html": "<span class=\"cookies-overlay-dialog__checkbox-name\">Cookies für Komfortfunktionen<br></span>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "duplicate-id-aria",
+          "impact": "critical",
+          "description": "Ensure every id attribute value used in ARIA and in labels is unique",
+          "help": "IDs used in ARIA and labels must be unique",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/duplicate-id-aria?application=axeAPI",
+          "tags": [
+            "cat.parsing",
+            "wcag2a",
+            "wcag412",
+            "EN-301-549",
+            "EN-9.4.1.2"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "#main-navigation-slideout-wrapper > .secondary-navigation-slot.yCmsContentSlot.slot > .staticnavigationcomponent.staticnavigationcomponent--default[data-children=\"4\"] > .staticnavigationcomponent-label[href=\"#\"]"
+              ],
+              "html": "<a href=\"#\" class=\"staticnavigationcomponent-label\" id=\"static-nav-StaticLeftNavigationComponent\">Mehr EP:</a>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "axe_error": ""
+    }
+  ],
+  "risk": {
+    "audit_score": 30,
+    "risk_label": "mittel - manuelle Prüfung sinnvoll",
+    "manual_review_needed": "ja",
+    "legal_safe_status": "Automatisch erkannte Barrierefreiheitsrisiken. Keine endgültige BFSG-Verstoßbehauptung ohne manuelle Prüfung."
+  },
+  "note": "Automatischer Risikoscan. Keine abschließende BFSG- oder WCAG-Konformitätsaussage ohne manuelle Prüfung."
+}

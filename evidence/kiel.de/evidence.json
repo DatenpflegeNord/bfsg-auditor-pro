@@ -1,0 +1,675 @@
+{
+  "scanned_at_utc": "2026-05-07T12:06:22+00:00",
+  "base_url": "https://www.kiel.de/kulturforum",
+  "domain": "kiel.de",
+  "input_row": {
+    "found_at_utc": "2026-05-07T12:05:04+00:00",
+    "url": "https://www.kiel.de/kulturforum",
+    "domain": "kiel.de",
+    "normalized_domain": "kiel.de",
+    "business_name": "KulturForum",
+    "keyword": "Ticketshop",
+    "plz": "24103",
+    "city": "Kiel",
+    "place_id": "ChIJn9CNOV5WskcRB94CanSiz7E",
+    "google_types": "establishment,point_of_interest",
+    "google_rating": "4.6",
+    "google_user_ratings_total": "99",
+    "formatted_address": "Andreas-Gayk-Straße 31, 24103 Kiel, Deutschland",
+    "source": "google_places_textsearch_seed_v5",
+    "Quality_Score": "80",
+    "Quality_Reasons": "keyword+65 | mittelgroesse+10 | solider-lokalbetrieb+5",
+    "Rejected_Reason": "",
+    "Transaction_Checked_At_UTC": "2026-05-07T12:05:56+00:00",
+    "Transaction_Score": "100",
+    "Transaction_Reasons": "Booking_Found+30 | Ticket_Found+35 | Appointment_Found+25 | Payment_Words_Found+20 | Login_Found+12 | lead-keyword+10",
+    "Transaction_Type": "ticket_booking",
+    "Consumer_Contract_Likelihood": "hoch",
+    "Transaction_Evidence_URLs": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php | https://www.kiel.de/de/politik_verwaltung/service/trauungen_faq.php",
+    "Transaction_Evidence_JSON": "runs/20260507_120549/transaction_evidence/kiel.de/transaction_evidence.json",
+    "Pages_Transaction_Checked": "2",
+    "Cart_Found": "no",
+    "Checkout_Found": "no",
+    "Booking_Found": "yes",
+    "Appointment_Found": "yes",
+    "Ticket_Found": "yes",
+    "Subscription_Found": "no",
+    "Login_Found": "yes",
+    "Payment_Words_Found": "yes",
+    "Product_Price_Found": "no",
+    "Contract_Form_Found": "no",
+    "Cold_Email_Allowed": "no",
+    "Postal_Letter_Recommended": "yes_after_manual_review",
+    "DSGVO_Data_Minimization": "public business website data only; no accounts, no form submission, no private data intentionally collected",
+    "DSGVO_Source": "public website / Google Places lead",
+    "DSGVO_Delete_After": "2026-11-03",
+    "Transaction_Rejected_Reason": "",
+    "Healthcare_Lead": "no",
+    "Healthcare_Digital_Service": "yes",
+    "Online_Appointment_Found": "yes",
+    "Video_Consultation_Found": "no",
+    "Online_Prescription_Found": "no",
+    "Patient_Portal_Found": "yes",
+    "Microenterprise_Risk": "medium",
+    "Microenterprise_Reasons": "Größe/Umsatz nicht sicher öffentlich belegbar",
+    "BFSG_Applicability_Status": "A",
+    "BFSG_Exclusion_Risk": "low",
+    "BFSG_Exclusion_Reasons": "starke Transaktionsstrecke",
+    "Recommended_Action": "audit_prioritize",
+    "Applicability_Rejected_Reason": "",
+    "Contextual_Checked_At_UTC": "2026-05-07T12:06:03+00:00",
+    "Contextual_Risk_Score": "30",
+    "Contextual_Risk_Label": "niedrig",
+    "Focus_Tab_Steps": "15",
+    "Focus_Offscreen_Count": "0",
+    "Focus_Missing_Indicator_Count": "1",
+    "Focus_Stuck_Risk": "no",
+    "Focus_Findings_JSON": "[{\"step\": 7, \"type\": \"focus_indicator_unclear_css\", \"element\": {\"tag\": \"translation-select\", \"role\": \"\", \"id\": \"\", \"href\": \"\", \"name\": \"\", \"text\": \"\"}, \"css\": {\"outlineWidth\": \"3px\", \"outlineStyle\": \"none\", \"boxShadow\": \"none\", \"borderTopWidth\": \"0px\"}, \"screenshot\": \"runs/20260507_120549/contextual_evidence/kiel.de/page_1/focus_missing_indicator_7.png\", \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}]",
+    "Image_Alt_Candidate_Count": "30",
+    "Icon_Name_Candidate_Count": "0",
+    "Form_Label_Candidate_Count": "0",
+    "Visual_AI_Candidates_JSON": "[{\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.kiel.de/images/icon-buergerservice-small.svg\", \"nearbyText\": \"\", \"rect\": {\"x\": 1519.796875, \"y\": 1336.859375, \"width\": 80, \"height\": 80}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.kiel.de/images/icon-ideen-small-gruen.svg\", \"nearbyText\": \"\", \"rect\": {\"x\": 1691.390625, \"y\": 1336.859375, \"width\": 80, \"height\": 80}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.kiel.de/images/icon-stadtplan.svg\", \"nearbyText\": \"\", \"rect\": {\"x\": 1862.984375, \"y\": 1336.859375, \"width\": 80, \"height\": 80}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://www.kiel.de/images/IMG_20240225_203609_Quadro_Nuevo,_Foto_Katja_Kochanowski_59981.jpg\", \"nearbyText\": \"\", \"rect\": {\"x\": 35, \"y\": 261, \"width\": 1405, \"height\": 342.46875}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/2697711/e09e71efe09d6ab9938647f838af1b116deb8d9cb6db73c4242cf3396c107290/irgendwas-mit-m-wen.jpg\", \"nearbyText\": \"Irgendwas mit Möwen – Die Kieler Slam-Lesebühne! Slam-Poetry, literarisches Kabarett und Kurzgeschichten Donnerstag, 7. Mai 2026, 19.30 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Dieses Format präsentie\", \"rect\": {\"x\": 165, \"y\": 1644.859375, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3739990/f8115fb1892996c2b7694364a5863b2daaf817315acb63fd8db446cd9f913f2b/frequenz-festival-er-ffnung-foto-monika-m-rivas.jpg\", \"nearbyText\": \"Eröffnung - Frequenz Festival 2026 Freitag, 8. Mai 2026, 18.00 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Die Eröffnung ist der jungen Generation in Schleswig-Holstein gewidmet. Neben jungen Interpret*i\", \"rect\": {\"x\": 757, \"y\": 1644.859375, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3602546/d4f4a9e91f2b4c44fd31dcc9074f307b586fd05989250772efa2983b701d523e/ordseglarna-foto-ard-jongsma.jpg\", \"nearbyText\": \"folkBALTICA Doppelkonzert: Baltic Sea String Band und Ordseglarna Dieses Konzert findet im Rahmen des Kieler Kultur-Rausches statt. Samstag, 9. Mai 2026, 20.00 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen\", \"rect\": {\"x\": 165, \"y\": 2510.359375, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3740376/9176ead283c20701be420566315b9489292c5752be7744777691db565a4f70f5/frequenz-festival-ensemble-knm-foto-peer-kugler.jpg\", \"nearbyText\": \"Crippled Symmetries: re.petition – re.cycling – re.setting Werke von Petra Strahovnik und AnA Maria Rodriguez / Juan Felipe Waller Mit dem Ensemble KNM Berlin Sonntag, 10. Mai 2026, 18.00 Uhr KulturForum Kiel, Andreas-Ga\", \"rect\": {\"x\": 757, \"y\": 2510.359375, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3740394/68a626968eb4578164c9345c7355b22149e1efcbd353ba1c2658091a135a14a1/frequenz-festival-to-my-stars-foto-g-mart.jpg\", \"nearbyText\": \"TO MY STARS Spółdzielnia Muzyczna Contemporary Ensemble Montag, 11. Mai 2026, 18.30 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Spółdzielnia Muzyczna ist ein führendes polnisches Ensemble für zeitgenössi\", \"rect\": {\"x\": 165, \"y\": 3396.65625, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/2235648/53b6d69a0d7dffe28ccf7d90517016b009fdc9b0fd95c403dc1c1677b21c8c56/folkb-hne-im-statt-caf.jpg\", \"nearbyText\": \"Folk-Bühne live & unplugged im STATT-CAFÉ Montag, 11. Mai 2026, 20.00 Uhr STATT-Café, Andreas-Gayk-Straße 31 Mehr dazu lesen Eingeladen sind alle - vom Solisten bis zur \\\"Bigband\\\" - etwas aus der Welt des internationalen \", \"rect\": {\"x\": 757, \"y\": 3396.65625, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/2697717/44318eb42423626f4d93c30198682b4821d828d119bda049a9d3b4d8f4de66c5/poetry-slam.jpg\", \"nearbyText\": \"Der Original Kieler Poetry Slam! Der älteste Poetry Slam Schleswig-Holsteins. Donnerstag, 14. Mai 2026, 19.30 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Auch 2026 präsentiert assemble ART jeden Monat wi\", \"rect\": {\"x\": 165, \"y\": 4227.0625, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3738568/d65620345ea0886caac5cb8498ceefc621b3c2b870217b13738404f7222c48fe/safrafra.jpg\", \"nearbyText\": \"SAFRAFRA (Ghana) Reggae-Perlen Freitag, 15. Mai 2026, 21.00 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen SAFRAFRA – in der westafrikanischen Akan-Sprache so viel wie „Tanz die bunte Mischung“ – ist Progra\", \"rect\": {\"x\": 757, \"y\": 4227.0625, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3314286/04e2f67f2bd3bd6deaeeb116344137a4b8d2ab502aca8f9dcad4e096ae9d2052/jazz-caf.jpg\", \"nearbyText\": \"Jazz-Café+ im STATT-CAFÉ plus special guest Montag, 18. Mai 2026, 20.00 Uhr STATT-Café, Andreas-Gayk-Straße 31 Mehr dazu lesen Das STATT-QUARTETT spielt Jazz immer wieder anders, da sie stets andere Gäste mit ihren Instr\", \"rect\": {\"x\": 165, \"y\": 5057.46875, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3738665/cd4bb108df73f70023e0864b4e58e3ee30fb3076594ecbd16a5c073e4aef5adc/filmf-rde_beule-zerlegt-die-welt.jpg\", \"nearbyText\": \"FilmFörde #89 zeigt: „Beule – zerlegt die Welt“ (D 2022/2025, 79 Min., Komödie von Janek Rieke) Mittwoch, 20. Mai 2026, 19.00 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Wir sind pünktlich im Krankenhaus\", \"rect\": {\"x\": 757, \"y\": 5057.46875, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3779326/02d59b57268933ac110653ef23f109a6f134ff4275200dac15f9908ccb873834/vielfalt-in-kiel.jpg\", \"nearbyText\": \"Kiel ist Viel... Bist du auch dabei? Eine Veranstaltung im Rahmen des bundesweiten Aktionstags „Zusammenhalt in Vielfalt“ zum UNESCO-Welttag der kulturellen Vielfalt. Donnerstag, 21. Mai 2026, 15.00 Uhr KulturForum Kiel,\", \"rect\": {\"x\": 165, \"y\": 5866.96875, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3768299/f5fc295aeb846c604090146be19b4fec136a83c039618ab841ac23ad60028e87/tanzbar.jpg\", \"nearbyText\": \"TanzBAR #63 im STATT-CAFÉ Freitag, 22. Mai 2026, 20.00 Uhr STATT-Café, Andreas-Gayk-Straße 31 Mehr dazu lesen DJ Zucker spielt fröhliche, wilde und ehrliche Musik. Ohne Genre- und Altersgrenzen und mit viel guter Laune. \", \"rect\": {\"x\": 757, \"y\": 5866.96875, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3312304/18160e028f2ecf8c6b4cfdb9a788109428bae4b47a7fd045a836dd1bce02435f/singbar.jpg\", \"nearbyText\": \"SingBAR im STATT-CAFÉ Dienstag, 26. Mai 2026, 20.00 Uhr STATT-Café, Andreas-Gayk-Straße 31 Mehr dazu lesen Die originelle und gut gelaunte Singparty mit Axel Riemann! Wir freuen uns auf jede Stimme, ob hoch oder tief, ju\", \"rect\": {\"x\": 165, \"y\": 6682.96875, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3584857/5d78b1764453744746d1689cae6a5baa93e99df981046c38a3793840e4c6bd12/between-volga-and-void.jpg\", \"nearbyText\": \"Between Volga and Void - Tanztheater mit Kristina Schleicher Donnerstag, 28. Mai 2026, 19.30 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Was antwortet man, wenn die einfache Frage „Woher kommst du eigent\", \"rect\": {\"x\": 757, \"y\": 6682.96875, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3584857/5d78b1764453744746d1689cae6a5baa93e99df981046c38a3793840e4c6bd12/between-volga-and-void.jpg\", \"nearbyText\": \"Between Volga and Void - Tanztheater mit Kristina Schleicher Freitag, 29. Mai 2026, 19.30 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Was antwortet man, wenn die einfache Frage „Woher kommst du eigentlic\", \"rect\": {\"x\": 165, \"y\": 7487.671875, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3584857/5d78b1764453744746d1689cae6a5baa93e99df981046c38a3793840e4c6bd12/between-volga-and-void.jpg\", \"nearbyText\": \"Between Volga and Void - Tanztheater mit Kristina Schleicher Samstag, 30. Mai 2026, 19.30 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Was antwortet man, wenn die einfache Frage „Woher kommst du eigentlic\", \"rect\": {\"x\": 757, \"y\": 7487.671875, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3584857/5d78b1764453744746d1689cae6a5baa93e99df981046c38a3793840e4c6bd12/between-volga-and-void.jpg\", \"nearbyText\": \"Between Volga and Void - Tanztheater mit Kristina Schleicher Sonntag, 31. Mai 2026, 19.30 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Was antwortet man, wenn die einfache Frage „Woher kommst du eigentlic\", \"rect\": {\"x\": 165, \"y\": 8292.375, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/2249385/2ad8484cf9c9d67591299e9b50cb60aa7298141879a89fc36a63bb5d6a8c2e5e/jazz-im-statt-caf.png\", \"nearbyText\": \"JAZZ-CAFÉ im STATT-CAFÉ STATT-QUARTETT pur! Montag, 1. Juni 2026, 20.00 Uhr STATT-Café, Andreas-Gayk-Straße 31 Mehr dazu lesen Seit vielen Jahren ein Garant für eine gute Jazz-Session, die die vier Musiker des STATT-QUAR\", \"rect\": {\"x\": 757, \"y\": 8292.375, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/2697711/e09e71efe09d6ab9938647f838af1b116deb8d9cb6db73c4242cf3396c107290/irgendwas-mit-m-wen.jpg\", \"nearbyText\": \"Irgendwas mit Möwen – Die Kieler Slam-Lesebühne! Slam-Poetry, literarisches Kabarett und Kurzgeschichten Donnerstag, 4. Juni 2026, 19.30 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Dieses Format präsenti\", \"rect\": {\"x\": 165, \"y\": 9097.078125, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3729053/7a91f7bcd4816a3e750e3bdacbccf5c6122f99391fc7eb354925964eef0cda05/soundtrack-meines-lebens-mit-daniel-g-nther.jpg\", \"nearbyText\": \"SOUNDTRACK MEINES LEBENS – Biographie trifft Musik zu Gast: Daniel Günther Freitag, 5. Juni 2026, 20.00 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Soundtrack meines Lebens ist keine klassische Talkshow \", \"rect\": {\"x\": 757, \"y\": 9097.078125, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3627144/f6a19f1e70aec336313b3b0ece28dd87b0775c4364d7ad59e8f915661dfe2a67/take-four.jpg\", \"nearbyText\": \"40 Jahre TAKE FOUR entertainment a cappella - An NORBERT denken! Samstag, 6. Juni 2026, 20.00 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Sie singen einfach immer weiter – die vier Jungs von TAKE FOUR we\", \"rect\": {\"x\": 165, \"y\": 9962.578125, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/2235648/53b6d69a0d7dffe28ccf7d90517016b009fdc9b0fd95c403dc1c1677b21c8c56/folkb-hne-im-statt-caf.jpg\", \"nearbyText\": \"Folk-Bühne live & unplugged im STATT-CAFÉ Montag, 8. Juni 2026, 20.00 Uhr STATT-Café, Andreas-Gayk-Straße 31 Mehr dazu lesen Eingeladen sind alle - vom Solisten bis zur \\\"Bigband\\\" - etwas aus der Welt des internationalen \", \"rect\": {\"x\": 757, \"y\": 9962.578125, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3790700/912a2bec4f2a6a924fba423dbe8401d859b80495eee15fd88ceab87b118c620e/filmf-rde-holler-for-service-walnut-schultz-prodcutions.jpg\", \"nearbyText\": \"FilmFörde #90 zeigt: „Holler for Service“ (D / USA 2025, 77 Min., Dokumentarfilm von Ole Elfenkämper und Kathrin Seward) Mittwoch, 10. Juni 2026, 19.00 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Ein Eis\", \"rect\": {\"x\": 165, \"y\": 10767.28125, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/1040440/0c4257d196ac250a7d237bdf789cc12859681602693dbd3b720f55c742674423/original-kieler-poetry-slam.jpg\", \"nearbyText\": \"Bild: Poetry Slam - Björn Högsdal Kieler Halbfinale der Poetry Slam-Landesmeisterschaften 2026 Donnerstag, 11. Juni 2026, 19.30 Uhr KulturForum Kiel, Andreas-Gayk-Straße 31 Mehr dazu lesen Beim Kieler Halbfinale kämpfen \", \"rect\": {\"x\": 757, \"y\": 10767.28125, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3314286/04e2f67f2bd3bd6deaeeb116344137a4b8d2ab502aca8f9dcad4e096ae9d2052/jazz-caf.jpg\", \"nearbyText\": \"Jazz-Café+ im STATT-CAFÉ plus special guest Montag, 15. Juni 2026, 20.00 Uhr STATT-Café, Andreas-Gayk-Straße 31 Mehr dazu lesen Das STATT-QUARTETT spielt Jazz immer wieder anders, da sie stets andere Gäste mit ihren Inst\", \"rect\": {\"x\": 165, \"y\": 11574.90625, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}, {\"type\": \"image_alt_semantic_candidate\", \"alt\": \"\", \"src\": \"https://img.ecmaps.de/remote/.jpg?mode=crop&scale=both&width=850&height=500&url=https://dam.destination.one/3786897/2098104d3efdd0109f2c095c1dbc99b44d7a2bbb91bb03a39ca35aa300233a0f/trio-zafferano.jpg\", \"nearbyText\": \"Bild: Nina Sommerfeldt Lichtkünstlerei, LICHTKUENSTLEREI „Pastime with Good Company“ – Renaissance-Musik aus England Kieler-Woche-Konzert der Arbeitsgemeinschaft Kieler Auslandsvereine e. V. (AKA) Donnerstag, 25. Juni 20\", \"rect\": {\"x\": 757, \"y\": 11574.90625, \"width\": 518, \"height\": 305.515625}, \"url\": \"https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php\"}]",
+    "Cognitive_Candidates_JSON": "[]",
+    "Contextual_Evidence_JSON": "runs/20260507_120549/contextual_evidence/kiel.de/contextual_evidence.json",
+    "Contextual_Recommended_Action": "optional_review",
+    "Contextual_Privacy_Status": "datensparsam; no login; no form submit; no cart modification"
+  },
+  "scope": {
+    "scope_score": 100,
+    "scope_label": "wahrscheinlich BFSG-relevant",
+    "scope_reasons": [
+      "BFSG-nahe Branche",
+      "Kauf-/Bestellfunktion",
+      "Login/Kundenkonto",
+      "Online-Shop Hinweis",
+      "Shop/Checkout/Zahlung",
+      "Ticket/Reise/Hotel-Buchung"
+    ]
+  },
+  "company": {
+    "Company_Name": "Datenschutz Kontakt Direkt zum Inhalt springen Zur Navigation springen Zur Suche Suche öffnen Suche Eingabe Suchwort Suc",
+    "Entscheider": "Dr. Samet Yilmaz",
+    "Email": "rathaus@kiel.de",
+    "Telefon": "Nicht gefunden",
+    "HRB_HRA": "Nicht gefunden",
+    "Impressum_URL": "https://www.kiel.de/de/_info/impressum.php",
+    "Adresse_Text": "24103 Kiel rathaus",
+    "Mitarbeiter_Hinweis": "Unbekannt",
+    "Extraction_Error": ""
+  },
+  "pages": [
+    {
+      "url": "https://www.kiel.de/kulturforum",
+      "viewport": "desktop",
+      "loaded": true,
+      "title": "Das Kieler KulturForum: Viel Programm, viel Vielfalt",
+      "score": 100,
+      "violations_count": 0,
+      "incomplete_count": 2,
+      "critical_count": 0,
+      "serious_count": 0,
+      "moderate_count": 0,
+      "minor_count": 0,
+      "top_issues": "",
+      "overlays": [
+        "eye-able"
+      ],
+      "keyboard": {
+        "tabbed_elements": [
+          {
+            "cls": "Offcanvas-toggle js-offcanvas-toggle",
+            "href": "",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 182.9010009765625,
+              "height": 115.802001953125,
+              "left": 1302.0989990234375,
+              "right": 1417.9010009765625,
+              "top": 67.0989990234375,
+              "width": 115.802001953125,
+              "x": 1302.0989990234375,
+              "y": 67.0989990234375
+            },
+            "tag": "BUTTON",
+            "text": "MENÜ"
+          },
+          {
+            "cls": "Offcanvas-close js-offcanvas-toggle",
+            "href": "",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 140,
+              "height": 44,
+              "left": 1920,
+              "right": 1964,
+              "top": 96,
+              "width": 44,
+              "x": 1920,
+              "y": 96
+            },
+            "tag": "BUTTON",
+            "text": "Schließen"
+          },
+          {
+            "cls": "NavMain-1-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 186.796875,
+              "height": 46.796875,
+              "left": 1491,
+              "right": 1964,
+              "top": 140,
+              "width": 473,
+              "x": 1491,
+              "y": 140
+            },
+            "tag": "A",
+            "text": "Kiel & Zukunft"
+          },
+          {
+            "cls": "NavMain-1-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 234.59375,
+              "height": 46.796875,
+              "left": 1491,
+              "right": 1964,
+              "top": 187.796875,
+              "width": 473,
+              "x": 1491,
+              "y": 187.796875
+            },
+            "tag": "A",
+            "text": "Gesellschaft & Gesundheit"
+          },
+          {
+            "cls": "NavMain-1-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php#",
+            "id": "ActiveParent",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 282.390625,
+              "height": 46.796875,
+              "left": 1491,
+              "right": 1964,
+              "top": 235.59375,
+              "width": 473,
+              "x": 1491,
+              "y": 235.59375
+            },
+            "tag": "A",
+            "text": "Kultur & Sport"
+          },
+          {
+            "cls": "NavMain-2-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 323.984375,
+              "height": 41.59375,
+              "left": 1519,
+              "right": 1964,
+              "top": 282.390625,
+              "width": 445,
+              "x": 1519,
+              "y": 282.390625
+            },
+            "tag": "A",
+            "text": "KulturSpuren"
+          },
+          {
+            "cls": "NavMain-2-link",
+            "href": "https://www.kiel.de/de/kultur_freizeit/index.php",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 365.578125,
+              "height": 41.59375,
+              "left": 1519,
+              "right": 1964,
+              "top": 323.984375,
+              "width": 445,
+              "x": 1519,
+              "y": 323.984375
+            },
+            "tag": "A",
+            "text": "­Kiel hat Kultur"
+          },
+          {
+            "cls": "NavMain-2-link",
+            "href": "https://www.kiel.de/de/kultur_freizeit/kiel_kann_olympia.php",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 407.171875,
+              "height": 41.59375,
+              "left": 1519,
+              "right": 1964,
+              "top": 365.578125,
+              "width": 445,
+              "x": 1519,
+              "y": 365.578125
+            },
+            "tag": "A",
+            "text": "Kiel kann Olympia"
+          },
+          {
+            "cls": "NavMain-2-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 448.765625,
+              "height": 41.59375,
+              "left": 1519,
+              "right": 1964,
+              "top": 407.171875,
+              "width": 445,
+              "x": 1519,
+              "y": 407.171875
+            },
+            "tag": "A",
+            "text": "Kieler Stadt- und Schifffahrtsmuseum"
+          },
+          {
+            "cls": "NavMain-2-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 490.359375,
+              "height": 41.59375,
+              "left": 1519,
+              "right": 1964,
+              "top": 448.765625,
+              "width": 445,
+              "x": 1519,
+              "y": 448.765625
+            },
+            "tag": "A",
+            "text": "Stadtgalerie Kiel"
+          },
+          {
+            "cls": "NavMain-2-link is-open",
+            "href": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 531.953125,
+              "height": 41.59375,
+              "left": 1519,
+              "right": 1964,
+              "top": 490.359375,
+              "width": 445,
+              "x": 1519,
+              "y": 490.359375
+            },
+            "tag": "A",
+            "text": "KulturForum"
+          },
+          {
+            "cls": "NavMain-2-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/kultur_freizeit/kulturforum_kiel.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 573.546875,
+              "height": 41.59375,
+              "left": 1519,
+              "right": 1964,
+              "top": 531.953125,
+              "width": 445,
+              "x": 1519,
+              "y": 531.953125
+            },
+            "tag": "A",
+            "text": "Stadtarchiv"
+          }
+        ],
+        "focus_count": 12,
+        "keyboard_warning": ""
+      },
+      "screenshot_path": "evidence/kiel.de/5bc74734ad_desktop.png",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/color-contrast?application=axeAPI",
+          "tags": [
+            "cat.color",
+            "wcag2aa",
+            "wcag143",
+            "TTv5",
+            "TT13.c",
+            "EN-301-549",
+            "EN-9.1.4.3",
+            "ACT"
+          ],
+          "node_count": 2,
+          "nodes": [
+            {
+              "target": [
+                ".u-row:nth-child(17) > .u-col-lg-6.u-col-md-6.u-col-sm-6:nth-child(2) > .Base-theme--white.u-paddingTop--2.u-paddingLeft--2 > .Base-p--small > em"
+              ],
+              "html": "<em>Bild: Poetry Slam - Björn Högsdal</em>",
+              "failure_summary": ""
+            },
+            {
+              "target": [
+                ".u-row:nth-child(18) > .u-col-lg-6.u-col-md-6.u-col-sm-6:nth-child(2) > .Base-theme--white.u-paddingTop--2.u-paddingLeft--2 > .Base-p--small > em"
+              ],
+              "html": "<em>Bild: Nina Sommerfeldt Lichtkünstlerei, LICHTKUENSTLEREI</em>",
+              "failure_summary": ""
+            }
+          ]
+        },
+        {
+          "id": "frame-tested",
+          "impact": "critical",
+          "description": "Ensure <iframe> and <frame> elements contain the axe-core script",
+          "help": "Frames should be tested with axe-core",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-tested?application=axeAPI",
+          "tags": [
+            "cat.structure",
+            "best-practice",
+            "review-item"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                "iframe"
+              ],
+              "html": "<iframe aria-label=\"Anmeldeformular\" class=\"Base-iframe\" style=\"min-height: 800px;\" src=\"https://phplist.kiel.de/lists/?p=subscribe&amp;id=7\"></iframe>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "axe_error": ""
+    },
+    {
+      "url": "https://www.kiel.de/de/politik_verwaltung/service/trauungen_faq.php",
+      "viewport": "desktop",
+      "loaded": true,
+      "title": "Trauungen in Kiel: Termine buchen & Häufige Fragen",
+      "score": 100,
+      "violations_count": 0,
+      "incomplete_count": 1,
+      "critical_count": 0,
+      "serious_count": 0,
+      "moderate_count": 0,
+      "minor_count": 0,
+      "top_issues": "",
+      "overlays": [
+        "eye-able"
+      ],
+      "keyboard": {
+        "tabbed_elements": [
+          {
+            "cls": "Offcanvas-toggle js-offcanvas-toggle",
+            "href": "",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 183.18675231933594,
+              "height": 116.37350463867188,
+              "left": 1301.813232421875,
+              "right": 1418.186767578125,
+              "top": 66.81324768066406,
+              "width": 116.37353515625,
+              "x": 1301.813232421875,
+              "y": 66.81324768066406
+            },
+            "tag": "BUTTON",
+            "text": "MENÜ"
+          },
+          {
+            "cls": "Offcanvas-close js-offcanvas-toggle",
+            "href": "",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 140,
+              "height": 44,
+              "left": 1920,
+              "right": 1964,
+              "top": 96,
+              "width": 44,
+              "x": 1920,
+              "y": 96
+            },
+            "tag": "BUTTON",
+            "text": "Schließen"
+          },
+          {
+            "cls": "NavMain-1-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/politik_verwaltung/service/trauungen_faq.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 186.796875,
+              "height": 46.796875,
+              "left": 1491,
+              "right": 1964,
+              "top": 140,
+              "width": 473,
+              "x": 1491,
+              "y": 140
+            },
+            "tag": "A",
+            "text": "Kiel & Zukunft"
+          },
+          {
+            "cls": "NavMain-1-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/politik_verwaltung/service/trauungen_faq.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 234.59375,
+              "height": 46.796875,
+              "left": 1491,
+              "right": 1964,
+              "top": 187.796875,
+              "width": 473,
+              "x": 1491,
+              "y": 187.796875
+            },
+            "tag": "A",
+            "text": "Gesellschaft & Gesundheit"
+          },
+          {
+            "cls": "NavMain-1-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/politik_verwaltung/service/trauungen_faq.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 282.390625,
+              "height": 46.796875,
+              "left": 1491,
+              "right": 1964,
+              "top": 235.59375,
+              "width": 473,
+              "x": 1491,
+              "y": 235.59375
+            },
+            "tag": "A",
+            "text": "Kultur & Sport"
+          },
+          {
+            "cls": "NavMain-1-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/politik_verwaltung/service/trauungen_faq.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 330.1875,
+              "height": 46.796875,
+              "left": 1491,
+              "right": 1964,
+              "top": 283.390625,
+              "width": 473,
+              "x": 1491,
+              "y": 283.390625
+            },
+            "tag": "A",
+            "text": "Umwelt & Verkehr"
+          },
+          {
+            "cls": "NavMain-1-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/politik_verwaltung/service/trauungen_faq.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 377.984375,
+              "height": 46.796875,
+              "left": 1491,
+              "right": 1964,
+              "top": 331.1875,
+              "width": 473,
+              "x": 1491,
+              "y": 331.1875
+            },
+            "tag": "A",
+            "text": "Bildung & Wissenschaft"
+          },
+          {
+            "cls": "NavMain-1-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/politik_verwaltung/service/trauungen_faq.php#",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 425.78125,
+              "height": 46.796875,
+              "left": 1491,
+              "right": 1964,
+              "top": 378.984375,
+              "width": 473,
+              "x": 1491,
+              "y": 378.984375
+            },
+            "tag": "A",
+            "text": "Politik & Verwaltung"
+          },
+          {
+            "cls": "NavMain-2-link",
+            "href": "https://www.kiel.de/de/politik_verwaltung/index.php",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 467.375,
+              "height": 41.59375,
+              "left": 1519,
+              "right": 1964,
+              "top": 425.78125,
+              "width": 445,
+              "x": 1519,
+              "y": 425.78125
+            },
+            "tag": "A",
+            "text": "Politik & Verwaltung der Landeshauptstadt"
+          },
+          {
+            "cls": "NavMain-2-link js-navmain-sublink",
+            "href": "https://www.kiel.de/de/politik_verwaltung/service/trauungen_faq.php#",
+            "id": "ActiveParent",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 508.96875,
+              "height": 41.59375,
+              "left": 1519,
+              "right": 1964,
+              "top": 467.375,
+              "width": 445,
+              "x": 1519,
+              "y": 467.375
+            },
+            "tag": "A",
+            "text": "Ihr Serviceportal | Zuständigkeitsfinder"
+          },
+          {
+            "cls": "NavMain-3-link",
+            "href": "https://www.kiel.de/de/politik_verwaltung/service/index.php",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 545.359375,
+              "height": 36.390625,
+              "left": 1543,
+              "right": 1964,
+              "top": 508.96875,
+              "width": 421,
+              "x": 1543,
+              "y": 508.96875
+            },
+            "tag": "A",
+            "text": "Was erledige ich wie, und welches Amt ist zuständig?"
+          },
+          {
+            "cls": "NavMain-3-link",
+            "href": "https://www.kiel.de/de/politik_verwaltung/service/anmelden_ausweis_pass.php",
+            "id": "",
+            "outline": "dotted 2px",
+            "rect": {
+              "bottom": 581.75,
+              "height": 36.390625,
+              "left": 1543,
+              "right": 1964,
+              "top": 545.359375,
+              "width": 421,
+              "x": 1543,
+              "y": 545.359375
+            },
+            "tag": "A",
+            "text": "Anmelden, Ausweise & Co | Häufige Fragen"
+          }
+        ],
+        "focus_count": 12,
+        "keyboard_warning": ""
+      },
+      "screenshot_path": "evidence/kiel.de/5df67abab0_desktop.png",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "frame-tested",
+          "impact": "critical",
+          "description": "Ensure <iframe> and <frame> elements contain the axe-core script",
+          "help": "Frames should be tested with axe-core",
+          "helpUrl": "https://dequeuniversity.com/rules/axe/4.10/frame-tested?application=axeAPI",
+          "tags": [
+            "cat.structure",
+            "best-practice",
+            "review-item"
+          ],
+          "node_count": 1,
+          "nodes": [
+            {
+              "target": [
+                ".u-col-md-12.u-col-xxs-12.u-col-xs-12:nth-child(1) > .Base-frame > iframe"
+              ],
+              "html": "<iframe aria-label=\"Buchungskalender\" border=\"0\" height=\"800px\" scrolling=\"auto\" width=\"100%\" src=\"https://traukalender.kiel.de\"></iframe>",
+              "failure_summary": ""
+            }
+          ]
+        }
+      ],
+      "axe_error": ""
+    }
+  ],
+  "risk": {
+    "audit_score": 50,
+    "risk_label": "mittel - manuelle Prüfung sinnvoll",
+    "manual_review_needed": "ja",
+    "legal_safe_status": "Automatisch erkannte Barrierefreiheitsrisiken. Keine endgültige BFSG-Verstoßbehauptung ohne manuelle Prüfung."
+  },
+  "note": "Automatischer Risikoscan. Keine abschließende BFSG- oder WCAG-Konformitätsaussage ohne manuelle Prüfung."
+}
