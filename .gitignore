@@ -17,3 +17,7 @@ transaction_evidence/
 runs/
 test_outputs*/
 *.log
+.venv/
+__pycache__/
+*.pyc
+.env
